@@ -89,15 +89,15 @@ const config = {
             items: [
               {
                 label: 'Syllabus',
-                to: '/docs/syllabus',
+                to: '/docs/intro',
               },
               {
                 label: 'Schedule',
-                to: '/docs/schedule',
+                to: '/docs/intro',
               },
               {
                 label: 'Lectures',
-                to: '/docs/lectures',
+                to: '/docs/intro',
               },
             ],
           },
