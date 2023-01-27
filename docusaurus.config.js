@@ -85,11 +85,19 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'Material',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
+                label: 'Syllabus',
+                to: '/docs/syllabus',
+              },
+              {
+                label: 'Schedule',
+                to: '/docs/schedule',
+              },
+              {
+                label: 'Lectures',
+                to: '/docs/lectures',
               },
             ],
           },
@@ -97,16 +105,12 @@ const config = {
             title: 'Community',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'Moodle',
+                href: 'https://google.com',
               },
               {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
-              },
-              {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                label: 'Piazza',
+                href: 'https://piazza.com',
               },
             ],
           },
@@ -114,11 +118,11 @@ const config = {
             title: 'More',
             items: [
               {
-                label: 'Blog',
+                label: 'Announcements',
                 to: '/blog',
               },
               {
-                label: 'GitHub',
+                label: 'GitHub Classroom',
                 href: 'https://github.com/facebook/docusaurus',
               },
             ],
