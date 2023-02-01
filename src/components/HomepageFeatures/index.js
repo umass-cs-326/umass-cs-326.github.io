@@ -8,25 +8,7 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        In this course we examine the important problems in operating system
-        design and implementation. The operating system provides a well-known,
-        convenient, and efficient interface between user programs and the bare
-        hardware of the computer on which they run. The operating system is
-        responsible for allowing resources (e.g., disks, networks, and
-        processors) to be shared, providing common services needed by many
-        different programs (e.g., file service, the ability to start or stop
-        processes, and access to the printer), and protecting individual
-        programs from one another. The course will start with a brief historical
-        perspective of the evolution of operating systems over the last fifty
-        years, and then cover the major components of most operating systems.
-        This discussion will cover the tradeoffs that can be made between
-        performance and functionality during the design and implementation of an
-        operating system. Particular emphasis will be given to three major OS
-        subsystems: process management (processes, threads, CPU scheduling,
-        synchronization, and deadlock), memory management (segmentation, paging,
-        swapping), file systems, and operating system support for distributed
-        systems. This course counts as a CS Elective toward the CS Major.
-        Prerequisites: COMPSCI 230. 4 credits.
+        The web is arguably today's most important application platform. Web browsers run on practically every device, and even many phone applications are in fact web applications under the covers. This course will cover a broad range of client-side web technologies, including HTTP itself, HTML5, CSS, and JavaScript; it will additionally cover key concepts for the server side of web applications, including key value stores and SQL servers. This course will also cover key concepts and technologies including AJAX, JavaScript libraries (e.g., jQuery), and web security. This course is hands-on and heavily project-based; students will construct a substantial dynamic web application based on the concepts, technologies, and techniques presented during lectures and in readings. This course satisfies the IE Requirement.
       </>
     ),
   },
