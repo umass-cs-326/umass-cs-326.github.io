@@ -7,15 +7,6 @@ sidebar_class_name: green
 
 Below is the projected schedule for *Spring 2023*. You are welcome to visit any of the material at any time. This is the first offering where we are using this website structure for the course. As such, not all the material is currently available, however, we will be updating as we progress through the semester hoping to have the material for each lecture and lab out as early as possible. Each link below will bring you to a page for the particular lecture, lab, assignment, etc. It is your responsibility to monitor the release and due dates of assignments to ensure that you submit on time.
 
-**Table of Contents**
-
-- [Schedule](#schedule)
-  - [Lecture Schedule](#lecture-schedule)
-  - [Lab Schedule](#lab-schedule)
-  - [Exercises](#exercises)
-  - [Homework](#homework)
-  - [Project](#project)
-
 ## Lecture Schedule
 
 - [Tu 2/7 - L01 Course Introduction](../../lectures/course-intro/)
