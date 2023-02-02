@@ -129,9 +129,9 @@ This form of grading provides grade freedom and ownership in your own learning. 
 
 ## Assignments
 
-### In-Class Exercises
+### Exercises
 
-Most classes will have in-class participation exercises that will exercise your understanding of the material being discussed. You are required to complete participation exercises by the stated deadline. If you are unable to attend class you are still expected to submit the activity by the deadline. They are due the day after the class by midnight. You are encouraged to extend the in class exercises with additional features to explore the material. You can collaborate with other students, but you must submit your own work. You will submit what you believe the grade you achieved is on the assignment, reflect on what you learned, and answer other associated questions about the assignment. Your work may be subject to peer review.
+Most classes will provide time to begin exercises that will apply your understanding of the material being discussed in lecture. You are required to complete participation exercises by the stated deadline. If you are unable to attend class you are still expected to submit the activity by the deadline. They are due on the day of the next class by midnight. You are encouraged to extend these exercises with additional features to explore the material, however, know that some exercises build on previous ones. You can collaborate with other students, but you must submit your own work. You will submit what you believe the grade you achieved is on the assignment, reflect on what you learned, and answer other associated questions about the assignment. Your work may be subject to peer review.
 
 ### Labs
 
@@ -143,7 +143,7 @@ Homework are programming assignments that reinforce material taught in class. Th
 
 ### Team Project
 
-The team project encompasses the last third of the semester - approximately 4 weeks. You will be required to work in a team of 3-4 students to design and implement a web application using the three important components of web applications including HTML, CSS, and JavaScript. The design and implementation of the application is entirely up to you, but it must solve a real-world problem, be connected to work you have done in other areas (general education), connect to your discipline (e.g., CS, Informatics) and be relatively unique as compared to other existing applications (within reason). You are allowed to use any technology as long as it relates to the material covered in class and adheres to the project requirements.
+The team project encompasses the last third of the semester - approximately 4 weeks. You will be required to work in a team of 3-4 students to design and implement a web application using the three important components of web applications including HTML, CSS, and JavaScript. The design and implementation of the application is entirely up to you, but it must solve a real-world problem, be connected to work you have done in other areas (general education), connect to your discipline (e.g., CS, Informatics) and be relatively unique as compared to other existing applications (within reason). You are allowed to use any technology as long as it relates to the material covered in class and adheres to the project requirements. Your work is subject to peer review.
 
 ### Assignment Submission
 

@@ -12,7 +12,7 @@ const config = {
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/favicon.png',
   trailingSlash: true,
 
   // GitHub pages deployment config.
@@ -43,6 +43,9 @@ const config = {
         },
         blog: {
           showReadingTime: true,
+          blogTitle: "Announcements",
+          blogDescription: "Announcements",
+          blogSidebarTitle: "Recent Announcements"
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           // editUrl:
@@ -89,41 +92,49 @@ const config = {
             items: [
               {
                 label: 'Syllabus',
-                to: '/docs/intro',
+                to: '/docs/information/syllabus',
               },
               {
                 label: 'Schedule',
-                to: '/docs/intro',
+                to: '/docs/information/schedule',
               },
               {
                 label: 'Lectures',
-                to: '/docs/intro',
+                to: '/docs/lectures',
               },
             ],
           },
           {
-            title: 'Community',
+            title: 'Assignments',
+            items: [
+              {
+                label: 'Exercises',
+                to: '/docs/category/exercises',
+              },
+              {
+                label: 'Homework',
+                to: '/docs/category/homework',
+              },
+              {
+                label: 'Project',
+                to: '/docs/category/project',
+              },
+            ],
+          },
+          {
+            title: 'Learning Systems',
             items: [
               {
                 label: 'Moodle',
-                href: 'https://google.com',
-              },
-              {
-                label: 'Piazza',
-                href: 'https://piazza.com',
-              },
-            ],
-          },
-          {
-            title: 'More',
-            items: [
-              {
-                label: 'Announcements',
-                to: '/blog',
+                href: 'https://umass.moonami.com',
               },
               {
                 label: 'GitHub Classroom',
                 href: 'https://github.com/facebook/docusaurus',
+              },
+              {
+                label: 'Piazza',
+                href: 'https://piazza.com',
               },
             ],
           },
