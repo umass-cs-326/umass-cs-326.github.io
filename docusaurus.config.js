@@ -92,15 +92,15 @@ const config = {
             items: [
               {
                 label: 'Syllabus',
-                to: '/docs/information/syllabus',
+                to: 'docs/information/syllabus',
               },
               {
                 label: 'Schedule',
-                to: '/docs/information/schedule',
+                to: 'docs/information/schedule',
               },
               {
                 label: 'Lectures',
-                to: '/docs/lectures',
+                to: 'docs/lectures/course-intro',
               },
             ],
           },
@@ -109,15 +109,15 @@ const config = {
             items: [
               {
                 label: 'Exercises',
-                to: '/docs/category/exercises',
+                to: 'docs/information/schedule/#exercises',
               },
               {
                 label: 'Homework',
-                to: '/docs/category/homework',
+                to: 'docs/information/schedule/#homework',
               },
               {
                 label: 'Project',
-                to: '/docs/category/project',
+                to: 'docs/information/schedule/#project',
               },
             ],
           },

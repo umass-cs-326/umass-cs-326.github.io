@@ -1,3 +1,0 @@
-# Ex8: 8x8 Chessboard
-
-Coming soon...
