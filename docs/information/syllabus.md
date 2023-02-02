@@ -236,3 +236,13 @@ Students who are unable to complete course requirements within the allotted time
 7. **Communication:** Regular communication between group members is essential for successful collaboration. Students are encouraged to use online tools, such as email or group chat platforms, to stay in touch and communicate effectively.
 
 By following this collaboration policy, students will be able to work collectively while still being held accountable for their individual learning and understanding of the course material.
+
+## AI Assistants
+
+As computer science students, it's important to understand the judicious use of AI technologies like ChatGPT in your homework assignments and projects. While these tools can be a valuable resource in your learning journey, it's essential to use them in a responsible and ethical manner.
+
+In this course, we allow the use of AI technologies like ChatGPT as a means of learning and improving your understanding of the subject matter. However, it's important to remember that the work you submit must be original and created by you, the student. Submitting work that is not your own constitutes academic dishonesty and is a violation of the code of conduct in this course.
+
+The use of AI technologies like ChatGPT should be seen as a tool for assistance, not a substitute for your own efforts. While it's tempting to rely solely on these tools to complete your assignments and projects, doing so will not help you develop the critical thinking and problem-solving skills that are essential for success in computer science.
+
+In conclusion, while we encourage the use of AI technologies like ChatGPT in your learning journey, it's important to use them responsibly and ethically. The work you submit must be original and created by you, and the use of these tools should be seen as a means of assistance, not a substitute for your own efforts. By doing so, you'll be able to make the most of these tools and develop the skills and knowledge you need to succeed in computer science.
