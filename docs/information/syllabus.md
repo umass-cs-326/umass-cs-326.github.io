@@ -175,6 +175,7 @@ If you complete the course with leftover tokens it will be applied to your final
 - If you submit an assignment any day after the day an assignment is due you will pay a token for each day past the due date.
 - You may only use tokens up to three days past the deadline of an assignment. After three days past the deadline you are no longer able to use tokens or submit an assignment late. It will be marked as missing with a 0.
 - You can only earn a maximum of 5 tokens.
+- To use your tokens you must use our token request form available on the course LMS.
 
 **Examples:**
 
