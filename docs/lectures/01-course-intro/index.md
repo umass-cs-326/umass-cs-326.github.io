@@ -15,3 +15,9 @@ I'm confident that, by the end of this course, you'll have a solid understanding
 import { PowerPoint } from '@site/src/components/PowerPoint'
 
 <PowerPoint lec_src={require('./01-course-intro.pptx').default} />
+
+## Other Material
+
+- [Syllabus](/docs/information/syllabus)
+- [Schedule](/docs/information/schedule)
+- [Moodle](https://umass.moonami.com/)

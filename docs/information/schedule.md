@@ -76,7 +76,7 @@ Below is the projected schedule for *Spring 2023*. You are welcome to visit any 
 
 *All homework assignments are due by 11:59 unless otherwise specified.*
 
-- [Hw1 GitHub Classroom](../../homework/github-classroom) (A: 2/7, D: 2/16)
+- [Hw1 GitHub Classroom](../../homework/github-classroom) (A: 2/9, D: 2/16)
 - [Hw2 Scrabble Starter](../../homework/scrabble-starter) (A: 2/16, D: 3/7)
 - [Hw3 Rack & Render](../../homework/rack-and-render) (A: 3/7, D: 3/28)
 - [Hw4 Persistence & Hints](../../homework/persistence-and-hints) (A: 3/28, D: 4/13)
