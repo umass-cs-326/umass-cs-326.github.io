@@ -29,6 +29,11 @@ const config = {
     locales: ['en'],
   },
 
+  plugins: [
+    require.resolve('docusaurus-lunr-search'),
+    './src/plugins/webpack_mod',
+  ],
+
   presets: [
     [
       'classic',
@@ -43,9 +48,9 @@ const config = {
         },
         blog: {
           showReadingTime: true,
-          blogTitle: "Announcements",
-          blogDescription: "Announcements",
-          blogSidebarTitle: "Recent Announcements"
+          blogTitle: 'Announcements',
+          blogDescription: 'Announcements',
+          blogSidebarTitle: 'Recent Announcements',
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           // editUrl:

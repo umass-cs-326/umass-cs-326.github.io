@@ -10,6 +10,8 @@ In addition to individual assignments, you'll also have the opportunity to work 
 
 I'm confident that, by the end of this course, you'll have a solid understanding of web programming and the skills you need to build exciting and innovative projects. So let's get started!
 
-## Material
+## Slides
 
-- Slides
+import { PowerPoint } from '@site/src/components/PowerPoint'
+
+<PowerPoint lec_src={require('./01-course-intro.pptx').default} />
