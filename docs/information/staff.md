@@ -34,7 +34,7 @@ Meet all the wonderful people who are here to help you have an amazing experienc
             </div>
             <div id="name">Sabrina Liang</div>
             <div id="bio">
-                Graduate 1st Year MS/PhD Student in CS, BINDs lab, with interest in RL/Convex Optimization. I love hiking, walking as well as Dungeons & Dragons.
+                First year master student in CS, interest in data science and data visualization. I enjoy knitting and painting, and recently started keeping plants. (she/her)
             </div>
         </div>
     </div>
