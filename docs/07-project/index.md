@@ -1,0 +1,3 @@
+# Project
+
+The team project starts on the first day of class with forming teams. You will be working in a team of 4 students to design and implement a web application using the three important components of web applications including HTML, CSS, and JavaScript. The design and implementation of the application is entirely up to you, but it must solve a real-world problem, be connected to work you have done in other areas (general education), connect to your discipline (e.g., CS, Informatics) and be relatively unique as compared to other existing applications (within reason). You are allowed to use any technology as long as it relates to the material covered in class and adheres to the project requirements. Your work is subject to peer review.
