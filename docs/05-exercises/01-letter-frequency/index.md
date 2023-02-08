@@ -2,6 +2,7 @@
 
 ## Information
 
+- Believe it or not, you should start [HW1](/docs/homework/github-classroom) first before completing this exercise.
 - Visit the course LMS (e.g., Moodle) for the GitHub Classroom assignment link.
 - See the [calendar](/docs/information/schedule/#exercises) for due dates.
 - You submit this assignment by pushing to GitHub.
