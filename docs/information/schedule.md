@@ -57,7 +57,7 @@ Below is the projected schedule for *Spring 2023*. You are welcome to visit any 
 
 *All exercise assignments are due the following day by 11:59 unless otherwise specified.*
 
-- [Ex1 Letter Frequency](../../exercises/letter-frequency) (A: 2/9, D: 2/10)
+- [Ex1 Letter Frequency](../../exercises/letter-frequency) (A: 2/9, D: 2/13)
 - [Ex2 Letter Histogram](../../exercises/letter-histogram) (A: 2/14, D: 2/15)
 - [Ex3 Decoder Ring](../../exercises/decoder-ring) (A: 2/16, D: 2/17)
 - [Ex4 Decoder Ring Class](../../exercises/decoder-ring-class) (A: 2/21, D: 2/22)
