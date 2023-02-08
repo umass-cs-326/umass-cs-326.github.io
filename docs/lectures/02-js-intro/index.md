@@ -12,7 +12,16 @@ Despite this, JavaScript has had an impressive and impressive history. Its origi
 
 In conclusion, JavaScript is an incredibly versatile and powerful language. While it is prone to the occasional errors and can be difficult to debug, its features and flexibility make it an attractive choice for web developers and application developers alike.
 
-## Material
+## Slides
 
-- [Slides](02-js-intro.pdf)
+import { PowerPoint } from '@site/src/components/PowerPoint'
+
+<PowerPoint lec_src={require('./02-js-intro.pptx').default} />
+
+## Code
+
 - [Example Code](02-01-script.zip)
+
+## Resources
+
+- [VSCode Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer), an extension we will end up using quite a bit for several weeks.
