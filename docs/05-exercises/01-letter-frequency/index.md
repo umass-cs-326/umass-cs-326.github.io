@@ -3,9 +3,15 @@
 ## Information
 
 - Believe it or not, you should start [HW1](/docs/homework/github-classroom) first before completing this exercise.
-- Visit the course LMS (e.g., Moodle) for the GitHub Classroom assignment link.
+- Visit Moodle and follow the GitHub Classroom assignment link.
 - See the [calendar](/docs/information/schedule/#exercises) for due dates.
-- You submit this assignment by pushing to GitHub.
+
+## Submission
+
+You must submit the following to complete this assignment:
+
+- Push all changes to your GitHub repository before the due date. You do not need to submit anything to Moodle. We will take your last commit before the deadline as your submission.
+- Complete the Grade Reflection survey associated with this assignment on Moodle.
 
 ## Overview
 

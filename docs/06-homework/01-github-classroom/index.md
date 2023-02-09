@@ -2,6 +2,18 @@
 
 ![](image001.png)
 
+## Information
+
+- Visit Moodle and follow the GitHub Classroom assignment link.
+- See the [calendar](/docs/information/schedule/#homework) for due dates.
+
+## Submission
+
+You must submit the following to complete this assignment:
+
+- Push all changes to your GitHub repository before the due date. You do not need to submit anything to Moodle. We will take your last commit before the deadline as your submission.
+- Complete the Grade Reflection survey associated with this assignment on Moodle.
+
 ## Overview
 
 In this course, most of the assignments are distributed using GitHub Classroom. GitHub Classroom uses Git to organize assignments that are stored in Git repositories. The goal of this homework is to get you familiar with Git, GitHub, and GitHub Classroom. This course uses Git extensively to help you practice using version control which is an extremely important tool in the context of software development as well as other disciplines that need a fine-grained method for versioning files. We use GitHub Classroom as a place to manage assignment repositories. 
