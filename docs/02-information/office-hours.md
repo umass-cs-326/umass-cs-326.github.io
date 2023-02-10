@@ -30,7 +30,7 @@ Below are the office hours offered by the course staff for _Spring 2023_. There 
 
 #### Thursday 4:30PM - 6:30PM
 
-**Location:** TBD
+**Location:** LGRT 223/225
 
 ## Liam Neal Reilly (UCA)
 
