@@ -6,7 +6,7 @@ Below are the office hours offered by the course staff for _Spring 2023_. There 
 
 #### Wednesday 9AM - 12PM
 
-**Location:** TBD
+**Location:** CS207
 
 ## Sridhama Prakhya (TA)
 
@@ -18,7 +18,7 @@ Below are the office hours offered by the course staff for _Spring 2023_. There 
 
 #### Tuesday 11:30AM - 2:30PM
 
-**Location:** TBD
+**Location:** LGRT 222
 
 ## Ashir Imran (Head UCA)
 
