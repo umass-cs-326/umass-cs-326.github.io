@@ -1,3 +1,8 @@
+---
+sidebar_position: 4
+sidebar_class_name: green
+---
+
 # Office Hours
 
 Below are the office hours offered by the course staff for _Spring 2023_. There is a mix of in person and Zoom hours spread throughout the week.
