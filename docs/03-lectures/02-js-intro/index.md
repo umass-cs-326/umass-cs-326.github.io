@@ -20,7 +20,7 @@ import { PowerPoint } from '@site/src/components/PowerPoint'
 
 ## Code
 
-- [Example Code](02-01-script.zip)
+- [Example Code](pathname:///lectures/02-js-intro/02-01-script.zip)
 
 ## Resources
 
