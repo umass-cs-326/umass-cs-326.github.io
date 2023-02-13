@@ -65,7 +65,7 @@ Below are the office hours offered by the course staff for _Spring 2023_. There 
 
 #### Tuesday 2PM - 3PM, Thursday 3PM - 4PM
 
-**Location:** TBD
+**Location:** Tue:LGRT-222, Thu:[Zoom](https://umass-amherst.zoom.us/j/97956164929)
 
 ## Stanley Araki
 
