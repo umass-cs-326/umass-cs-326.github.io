@@ -2,11 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://umass-cs-326.github.io/blog</id>
     <title>COMPSCI 326 Blog</title>
-    <updated>2023-02-10T00:00:00.000Z</updated>
+    <updated>2023-02-12T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://umass-cs-326.github.io/blog"/>
     <subtitle>COMPSCI 326 Blog</subtitle>
     <icon>https://umass-cs-326.github.io/img/favicon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Week 2]]></title>
+        <id>w2</id>
+        <link href="https://umass-cs-326.github.io/blog/w2"/>
+        <updated>2023-02-12T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[I hope you're all doing well and enjoying the web programming course]]></summary>
+        <content type="html"><![CDATA[<p>I hope you're all doing well and enjoying the web programming course
+so far. As we move into week 2, we'll be diving deeper into JavaScript
+and working on several more assignments.</p><p>This week, we'll be covering some advanced topics in JavaScript,
+including functions, objects, and arrays. These concepts will build
+upon what you learned in the first week and provide you with the
+foundation to start creating dynamic and interactive web pages.</p><p>Along with the lecture material, you'll be working on several new
+assignments. These assignments are designed to give you hands-on
+experience and help you apply the concepts you learned in class. Be
+sure to take your time, read the instructions carefully, and ask for
+help if you need it.</p><p>Remember, the goal of this course is to equip you with the skills you
+need to become a confident and capable web programmer. So, don't be
+afraid to challenge yourself, ask questions, and push your limits.</p><p>If you have any questions or concerns, please don't hesitate to reach
+out. I'm here to support you and help you succeed.</p><p>Let's continue this journey together!</p>]]></content>
+        <author>
+            <name>Tim Richards</name>
+            <uri>https://timdrichards.github.io</uri>
+        </author>
+        <category label="weeks" term="weeks"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Office Hours Posted]]></title>
         <id>office-hours</id>
