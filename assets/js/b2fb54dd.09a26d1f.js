@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[9359],{8375:e=>{e.exports=JSON.parse('{"label":"exercise","permalink":"/docs/tags/exercise","allTagsPath":"/docs/tags","count":1,"items":[{"id":"exercises/letter-histogram/index","title":"Ex2: Letter Histogram","description":"Information","permalink":"/docs/exercises/letter-histogram/"}]}')}}]);
