@@ -48,10 +48,6 @@ import { PowerPoint } from '@site/src/components/PowerPoint'
 
 <PowerPoint lec_src={require('./03-obj-arrays-funcs.pptx').default} />
 
-## Code
-
-Coming soon...
-
 ## Resources
 
 - [VSCode Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer), an extension we will end up using quite a bit for several weeks.
