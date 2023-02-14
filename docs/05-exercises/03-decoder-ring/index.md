@@ -25,7 +25,7 @@ The following exercises will give you some practice with various aspects of the 
 
 ## Starter Kit
 
-Download the starter kit (link it) before you begin.
+**Note: Follow the GitHub Classroom assignment link on Moodle first.**
 
 You are provided a single HTML file named `exercise-06.html`. Although we haven’t discussed HTML files yet, you will write your JavaScript code between the `<script>` tags inside of that HTML file. You may only use the `console.log` function to print values to the browser’s console and `console.assert` to test the functions that you write. You are encouraged to test your code to make sure it works as intended.
 
@@ -50,34 +50,35 @@ To encode, you match the original letter to the shifted version, so A → C, B �
 The transformation can be represented by aligning two alphabets; the cipher alphabet is the plain alphabet rotated left or right by some number of positions. For instance, here is a Caesar cipher using a left rotation of three places, equivalent to a right shift of 23 (the shift parameter is used as the key):
 
 
-Plain:    ABCDEFGHIJKLMNOPQRSTUVWXYZ
+_Plain:    ABCDEFGHIJKLMNOPQRSTUVWXYZ_
 
-Cipher:   XYZABCDEFGHIJKLMNOPQRSTUVW
+_Cipher:   XYZABCDEFGHIJKLMNOPQRSTUVW_
 
 
 When encrypting, a person looks up each letter of the message in the "plain" line and writes down the corresponding letter in the "cipher" line.
 
 
-Plaintext:  THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG
+_Plaintext:  THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG_
 
-Ciphertext: QEB NRFZH YOLTK CLU GRJMP LSBO QEB IXWV ALD
+_Ciphertext: QEB NRFZH YOLTK CLU GRJMP LSBO QEB IXWV ALD_
 
 
 Deciphering is done in reverse, with a right shift of 3.
 
 The encryption can also be represented using modular arithmetic by first transforming the letters into numbers, according to the scheme, A → 0, B → 1, ..., Z → 25. Encryption of a letter x by a shift n can be described mathematically as,
 
-$E_n(x)=(x+n) \text{ mod } 26$
+$$E_n(x)=(x+n) \text{ mod } 26$$
 
 Decryption is performed similarly,
 
-$D_n(x)=(x - n)  \text{ mod } 26$
+$$D_n(x)=(x - n)  \text{ mod } 26$$
 
 --------------------------------------------------------------
 
 You are to write a function called `decoderRing` that takes a rotation (a number from 0 to 25) as a parameter and returns an object with the following properties:
 
-1. An `encodeMap` object that contains an entry for every lower-case letter and its corresponding encoded version, shifted forward by the rotation. For example, if the rotation is 2, `encodeMap` will look like this, where the result for every letter is 2 letters after it in the alphabet, wrapping around to the beginning (notice the wrap-around at the end!):
+### Property 1:
+An `encodeMap` object that contains an entry for every lower-case letter and its corresponding encoded version, shifted forward by the rotation. For example, if the rotation is 2, `encodeMap` will look like this, where the result for every letter is 2 letters after it in the alphabet, wrapping around to the beginning (notice the wrap-around at the end!):
 
 ```js
 const dr = decoderRing(2); // rotation of 2
@@ -88,40 +89,42 @@ console.assert(JSON.stringify(dr.encodeMap) === JSON.stringify({"a":"c","b":"d",
 
 You might find these functions/operations useful:
 
-(make table)
-str.charCodeAt(ind)
-Returns the ASCII value of the character at index ind
+1. `str.charCodeAt(ind)`: Returns the ASCII value of the character at index `ind` 
 
 Example:
-
+```js
 ‘a’.charCodeAt(0) // evaluates to 97
-String.fromCharCode(asc)
-Returns the character corresponding to the ASCII value asc
+```
+
+2. `String.fromCharCode(asc)`: Returns the character corresponding to the ASCII value asc
 
 Example:
-
+```js
 String.fromCharCode(98) // evaluates to ‘b’
-x % k
-x modulo k is the remainder after dividing x by k
+```
+
+3. `x % k`: x modulo k is the remainder after dividing x by k
 
 Example:
-
+```js
 30 % 26 === 4
+```
 
-
-2. A `decodeMap` object that is the inverse of `encodeMap`
+### Property 2:
+A `decodeMap` object that is the inverse of `encodeMap`
 
 ```js
 dr.decodeMap; // evaluates to { “c”:”a”, “d”:”b”, … }
 ```
 
-3. A function `encode(str)` that takes a string and returns the encoded version – **if there is no encoding, return the original letter.**
+### Property 3:
+A function `encode(str)` that takes a string and returns the encoded version – **if there is no encoding, return the original letter.**
 
 ```js
 dr.encode(‘hello world’); // evaluates to ‘jgnnq yqtnf’
 ```
 
-Hints and Tips:
+#### Hints and Tips:
 
 - Use `let xs = str.split('').map((ch) => { … return something })` to iterate through each character in a string and returns a list of everything that has been mapped.
 
@@ -142,7 +145,8 @@ Example:
 [‘H’, ‘E’, ‘Y’].join(‘’); // evaluates to ‘HEY’
 ```
 
-4. A function `decode(str)` that does the reverse.
+### Property 4:
+A function `decode(str)` that does the reverse.
 
 ```js
 dr.decode(‘jgnnq yqtnf’); // evaluates to ‘hello world’
