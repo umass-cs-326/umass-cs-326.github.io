@@ -33,33 +33,51 @@ You are provided a single HTML file named `exercise-06.html`. Although we haven�
 
 This is an exercise in implementing a basic encryption technique known as a Caesar cipher. The basic approach is to match each letter in the alphabet to a letter in an alphabet that is shifted by a certain amount. For example:
 
-Original:
+**Original:**
 
-ABCDEFGHIJKLMNOPQRSTUVWXYZ
+**ABCDEFGHIJKLMNOPQRSTUVWXYZ**
 
-Shifted 2 to the right:
+**Shifted 2 to the right:**
 
-CDEFGHIJKLMNOPQRSTUVWXYZAB
+**CDEFGHIJKLMNOPQRSTUVWXYZAB**
 
 To encode, you match the original letter to the shifted version, so A → C, B → D, and so on. To decode a message, you just do the same thing in reverse, so C → A, and D → B.
 
-From Wikipedia:
+--------------------------------------------------------------
+
+**From Wikipedia:**
+
 The transformation can be represented by aligning two alphabets; the cipher alphabet is the plain alphabet rotated left or right by some number of positions. For instance, here is a Caesar cipher using a left rotation of three places, equivalent to a right shift of 23 (the shift parameter is used as the key):
+
+
 Plain:    ABCDEFGHIJKLMNOPQRSTUVWXYZ
+
 Cipher:   XYZABCDEFGHIJKLMNOPQRSTUVW
+
+
 When encrypting, a person looks up each letter of the message in the "plain" line and writes down the corresponding letter in the "cipher" line.
+
+
 Plaintext:  THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG
+
 Ciphertext: QEB NRFZH YOLTK CLU GRJMP LSBO QEB IXWV ALD
+
+
 Deciphering is done in reverse, with a right shift of 3.
+
 The encryption can also be represented using modular arithmetic by first transforming the letters into numbers, according to the scheme, A → 0, B → 1, ..., Z → 25. Encryption of a letter x by a shift n can be described mathematically as,
 
-Enx=x+n mod 26
+$E_n(x)=(x+n) \text{ mod } 26$
+
 Decryption is performed similarly,
-Dn x=x - n  mod 26
 
+$D_n(x)=(x - n)  \text{ mod } 26$
 
-You are to write a function called decoderRing that takes a rotation (a number from 0 to 25) as a parameter and returns an object with the following properties:
-An encodeMap object that contains an entry for every lower-case letter and its corresponding encoded version, shifted forward by the rotation. For example, if the rotation is 2, encodeMap will look like this, where the result for every letter is 2 letters after it in the alphabet, wrapping around to the beginning (notice the wrap-around at the end!):
+--------------------------------------------------------------
+
+You are to write a function called `decoderRing` that takes a rotation (a number from 0 to 25) as a parameter and returns an object with the following properties:
+
+1. An `encodeMap` object that contains an entry for every lower-case letter and its corresponding encoded version, shifted forward by the rotation. For example, if the rotation is 2, `encodeMap` will look like this, where the result for every letter is 2 letters after it in the alphabet, wrapping around to the beginning (notice the wrap-around at the end!):
 
 ```js
 const dr = decoderRing(2); // rotation of 2
@@ -68,11 +86,9 @@ const dr = decoderRing(2); // rotation of 2
 console.assert(JSON.stringify(dr.encodeMap) === JSON.stringify({"a":"c","b":"d","c":"e","d":"f","e":"g","f":"h","g":"i","h":"j","i":"k","j":"l","k":"m","l":"n","m":"o","n":"p","o":"q","p":"r","q":"s","r":"t","s":"u","t":"v","u":"w","v":"x","w":"y","x":"z","y":"a","z":"b"}));
 ```
 
-
-
 You might find these functions/operations useful:
 
-
+(make table)
 str.charCodeAt(ind)
 Returns the ASCII value of the character at index ind
 
@@ -93,38 +109,46 @@ Example:
 30 % 26 === 4
 
 
-A decodeMap object that is the inverse of encodeMap
+2. A `decodeMap` object that is the inverse of `encodeMap`
 
+```js
 dr.decodeMap; // evaluates to { “c”:”a”, “d”:”b”, … }
+```
 
+3. A function `encode(str)` that takes a string and returns the encoded version – **if there is no encoding, return the original letter.**
 
-A function encode(str) that takes a string and returns the encoded version – if there is no encoding, return the original letter.
-
+```js
 dr.encode(‘hello world’); // evaluates to ‘jgnnq yqtnf’
+```
 
-Hints and Tips
-Use let xs = str.split('').map((ch) => { … return something }) to iterate through each character in a string and returns a list of everything that has been mapped.
+Hints and Tips:
+
+- Use `let xs = str.split('').map((ch) => { … return something })` to iterate through each character in a string and returns a list of everything that has been mapped.
 
 Example:
 
+```js
 let str = ‘hey’;
 let upper = str.split(‘’).map(ch => ch.toUpperCase());
 console.assert(JSON.stringify(upper) === 
     JSON.stringify([‘H’, ‘E’, ‘Y’]));
+```
 
-
-Use xs.join(‘’) to convert a list xs back to a string, which is what you will return from the encode function.
+- Use `xs.join(‘’)` to convert a list xs back to a string, which is what you will return from the `encode` function.
 
 Example:
 
+```js
 [‘H’, ‘E’, ‘Y’].join(‘’); // evaluates to ‘HEY’
+```
 
+4. A function `decode(str)` that does the reverse.
 
-A function decode(str) that does the reverse.
-
+```js
 dr.decode(‘jgnnq yqtnf’); // evaluates to ‘hello world’
+```
 
-You will find TODO #1 in the exercise-06.html file.
+You will find `TODO #1` in the `exercise-06.html` file.
 
 ## TODO #2: Write Tests
 
