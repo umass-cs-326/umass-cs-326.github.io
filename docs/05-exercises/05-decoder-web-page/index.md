@@ -73,7 +73,7 @@ Examples:
 <label for="encode">Text to encode:</LABEL>
 <input type="text" ID="encode" />
 ```
-You can read up on these tags on the MDN Web Docs.
+You can read up on these tags on the [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/HTML/Element).
 
 You will find `TODO #1` in the `index.html` file.
 
