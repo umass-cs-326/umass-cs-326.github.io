@@ -1,3 +1,10 @@
+---
+author: Rajasi-Desai
+tags:
+  - exercise
+  - assignment
+---
+
 # Ex3: Decoder Ring
 
 ## Information
@@ -25,9 +32,15 @@ The following exercises will give you some practice with various aspects of the 
 
 ## Starter Kit
 
-**Note: Follow the GitHub Classroom assignment link on Moodle first.**
+:::note
+
+Follow the GitHub Classroom assignment link on Moodle first.
+
+:::
 
 You are provided a single HTML file named `exercise-06.html`. Although we haven’t discussed HTML files yet, you will write your JavaScript code between the `<script>` tags inside of that HTML file. You may only use the `console.log` function to print values to the browser’s console and `console.assert` to test the functions that you write. You are encouraged to test your code to make sure it works as intended.
+
+![image](https://user-images.githubusercontent.com/60818982/219066123-35124be6-b6b1-46b5-8305-6e8bc6e48e3a.png)
 
 ## TODO #1: Decoder Ring (“Caesar cipher”)
 
@@ -156,6 +169,6 @@ You will find `TODO #1` in the `exercise-06.html` file.
 
 ## TODO #2: Write Tests
 
-To ensure that the `decoderRing` function and the object it returns that you wrote in `TODO #1` is working properly, it is good software development/engineering and web programming practice to write tests. For this TODO, you must write 3 tests to test your code. You must use the `console.assert` function to write your tests.
+To ensure that the `decoderRing` function and the object it returns that you wrote in `TODO #1` is working properly, it is good software development/engineering and web programming practice to write tests. For this TODO, you must **write 3 tests to test your code**. You must use the `console.assert` function to write your tests.
 
 You will find `TODO #2` in the `exercise-06.html` file.
