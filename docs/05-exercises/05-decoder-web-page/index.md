@@ -30,7 +30,7 @@ additional information on exercise assignments.
 
 For this exercise you will make a web interface to the `decoder` class you built in the previous exercise. You can use your solution from the previous exercise or our solution. Note, that for this exercise you are not allowed to use modules. So, if you used modules in the last exercise you can simply comment out any import/export statements in your `decoder.js` file. If you do use your own solution, make sure you copy your JS file into the same folder as the HTML document you are about to complete. You should write your solutions in VSCode (or an editor of your choice). The web page you will create should look and work roughly like this:
 
-(add gif)
+![How to do](exercise5.gif)
 
 The application works as follows:
 - Enter a key, consisting of 26 letters (for now, no validation or error-checking is required).
