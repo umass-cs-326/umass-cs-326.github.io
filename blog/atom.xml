@@ -9,7 +9,7 @@
     <icon>https://umass-cs-326.github.io/img/favicon.png</icon>
     <entry>
         <title type="html"><![CDATA[Week 2]]></title>
-        <id>w2</id>
+        <id>https://umass-cs-326.github.io/blog/w2</id>
         <link href="https://umass-cs-326.github.io/blog/w2"/>
         <updated>2023-02-12T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[I hope you're all doing well and enjoying the web programming course]]></summary>
@@ -34,7 +34,7 @@ out. I'm here to support you and help you succeed.</p><p>Let's continue this jou
     </entry>
     <entry>
         <title type="html"><![CDATA[Office Hours Posted]]></title>
-        <id>office-hours</id>
+        <id>https://umass-cs-326.github.io/blog/office-hours</id>
         <link href="https://umass-cs-326.github.io/blog/office-hours"/>
         <updated>2023-02-10T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[I hope that everyone had a fantastic first week of our web programming class! I am thrilled to be teaching this course this semester, and I am eager to help all of you learn the ins and outs of web programming, including the powerful and versatile JavaScript language.]]></summary>
@@ -47,7 +47,7 @@ out. I'm here to support you and help you succeed.</p><p>Let's continue this jou
     </entry>
     <entry>
         <title type="html"><![CDATA[Welcome to Web Programming!]]></title>
-        <id>welcome</id>
+        <id>https://umass-cs-326.github.io/blog/welcome</id>
         <link href="https://umass-cs-326.github.io/blog/welcome"/>
         <updated>2023-02-06T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[We are thrilled to have you onboard and look forward to a challenging and enriching journey as we dive into the exciting world of web programming.]]></summary>

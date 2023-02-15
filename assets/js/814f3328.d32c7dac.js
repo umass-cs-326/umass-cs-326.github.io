@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[2535],{45641:e=>{e.exports=JSON.parse('{"title":"Recent Announcements","items":[{"title":"Week 2","permalink":"/blog/w2"},{"title":"Office Hours Posted","permalink":"/blog/office-hours"},{"title":"Welcome to Web Programming!","permalink":"/blog/welcome"}]}')}}]);
