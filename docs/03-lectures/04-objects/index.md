@@ -94,6 +94,12 @@ import { PowerPoint } from '@site/src/components/PowerPoint'
 
 <PowerPoint lec_src={require('./04-objects.pptx').default} />
 
+## Code Examples
+
+- [examples/04-objects](https://github.com/umass-cs-326/examples/tree/main/04-objects)
+
+You can view all of the examples by cloning the [examples repository](https://github.com/umass-cs-326/examples).
+
 ## Resources
 
 ### MDN Web Docs
