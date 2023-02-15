@@ -66,9 +66,9 @@ To run this "application" it is recommended that you use the ![Live Server](http
 
 **Please complete all the TODOs in the code.**
 
-### What you need to do
+## What you need to do
 
-## Todo #1: Work Checker
+### Todo #1: Work Checker
 
 In Scrabble, a player has a collection of tiles where each tile is bearing a single character (the letter) as depicted here:
 
@@ -99,7 +99,7 @@ _You must implement this function._
 
 ---
 
-## TODO 2: Base Score Calculator
+### TODO 2: Base Score Calculator
 
 The next function we need to write is the `baseScore` function which is used to calculate the base score of a word. The signature of this function looks like this:
 
@@ -135,7 +135,7 @@ _You must implement this function._
 
 ---
 
-## TODO #3: Possible Words
+### TODO #3: Possible Words
 
 An important goal the human player has in the game of Scrabble is to find a word that they know that can be constructed from the tiles they have in their rack in the context of the words that have already been played on the board. Although this can be a challenge for the human player (depending on their knowledge of words), it is not so hard for a computer to take a giant corpus of words and given a rack of tiles determine the possible words that can be constructed from those tiles.
 
@@ -156,7 +156,7 @@ _You must implement this function._
 
 ---
 
-## TODO ##4: Best Possible Words
+### TODO ##4: Best Possible Words
 
 The next function we want to write is the `bestPossibleWords` function which is used to find the best possible words that can be constructed from the tiles the player has in their rack. This function could be used to determine the best possible words that the player can construct from their rack. As we will see in later homework, this function is used to give the player a list of words that they can construct from their rack. The signature of this function looks like this:
 
@@ -173,7 +173,7 @@ _You must implement this function._
 
 ---
 
-## TODO #5: README.md
+### TODO #5: README.md
 
 It is always important to update a README.md file in your GitHub repository. This final TODO asks you to provide a brief description in the README.md file of the changes you made to the code that was provided. Briefly describe the implementation of your functions in a paragraph or two of text. Please use complete sentences and proper grammar.
 
