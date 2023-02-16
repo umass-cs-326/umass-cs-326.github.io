@@ -7,68 +7,46 @@ sidebar_class_name: green
 
 Below are the office hours offered by the course staff for _Spring 2023_. There is a mix of in person and Zoom hours spread throughout the week.
 
-## Harrison Geissler (TA)
+## Sunday
 
-#### Wednesday 9AM - 12PM
+- No office hours offered currently at this time.
 
-**Location:** CS207
+## Monday
 
-## Sridhama Prakhya (TA)
+- **Ashir Imran (Head UCA):** 11 AM - 1 PM, [zoom](https://umass-amherst.zoom.us/j/96338814025)
+- **Xinzhi Liang (TA):**
+- **Liam Neal Reilly (UCA):** 4 PM - 5 PM, CS207-3
+- **Seth Franklin (UCA):** 2:35 PM - 3:45 PM, [zoom](https://umass-amherst.zoom.us/my/seth.franklin)
 
-#### Wednesday 2PM - 5PM
+## Tuesday
 
-**Location:** [Zoom](https://umass-amherst.zoom.us/my/sridhama)
+- **Tim Richards (INSTRUCTOR):** 10 AM - 12 PM, LGRC A351A
+- **Xinzhi Liang (TA):** 11:30 AM - 2:30 PM, LGRT 222
+- **Isi Bernoff (UCA):** 10 AM - 11 AM, CS207-1
+- **Chou Heng Ieong (UCA):** 1 PM - 2 PM, [zoom](https://umass-amherst.zoom.us/j/3352032138)
+- **Anshul Vemulapalli (UCA):** 2 PM - 3 PM, LGRT-222
+- **Stanley Araki (UCA):** 5:30 PM - 6:30 PM, [zoom](https://umass-amherst.zoom.us/j/4852443899)
 
-## Xinzhi Liang (TA)
+## Wednesday
 
-#### Tuesday 11:30AM - 2:30PM
+- **Harrison Geissler (TA):** 9 AM - 12 PM, CS207
+- **Sridhama Prakhya (TA):** 2 PM - 5 PM, [zoom](https://umass-amherst.zoom.us/my/sridhama)
+- **Seth Franklin (UCA):** 2:35 PM - 3:45 PM, [zoom](https://umass-amherst.zoom.us/my/seth.franklin)
+- **Chou Heng Ieong (UCA):** 11 AM - 12 PM, [zoom](https://umass-amherst.zoom.us/j/3352032138)
 
-**Location:** LGRT 222
 
-## Ashir Imran (Head UCA)
+## Thursday
 
-#### Monday 11:00AM - 1:00PM
+- **Tim Richards (INSTRUCTOR):** 3 PM - 5 PM, LGRC A351A
+- **Rajasi Desai (Head UCA):** 4:30 PM - 6:30 PM, LGRT 223/225
+- **Isi Bernoff (UCA):** 10 AM - 11 AM, CS207-1
+- **Anshul Vemulapalli (UCA):** 3 PM - 4 PM, [zoom](https://umass-amherst.zoom.us/j/97956164929)
+- **Stanley Araki (UCA):** 5:30 PM - 6:30 PM, [zoom](https://umass-amherst.zoom.us/j/4852443899)
 
-**Location:** [Zoom](https://umass-amherst.zoom.us/j/96338814025)
+## Friday
 
-## Rajasi Desai (Head UCA)
+- **Liam Neal Reilly (UCA):** 10 AM - 11 AM, CS207-3
 
-#### Thursday 4:30PM - 6:30PM
+## Saturday
 
-**Location:** LGRT 223/225
-
-## Liam Neal Reilly (UCA)
-
-#### Monday 4PM - 5PM, Friday 10AM - 11AM
-
-**Location:** CS207-3
-
-## Isi Bernoff (UCA)
-
-#### Tuesday & Thursday 10AM - 11AM
-
-**Location:** CS207-1
-
-## Seth Franklin (UCA)
-
-#### Monday & Wednesday 2:45PM - 3:45PM
-
-**Location:** [Zoom](https://umass-amherst.zoom.us/my/seth.franklin)
-
-## Chou Heng Ieong (UCA)
-
-#### Tuesday 1PM - 2PM, Wednesday 11AM - 12PM
-
-**Location:** [Zoom](https://umass-amherst.zoom.us/j/3352032138)
-
-## Anshul Vemulapalli (UCA)
-
-#### Tuesday 2PM - 3PM, Thursday 3PM - 4PM
-
-**Location:** Tue:LGRT-222, Thu:[Zoom](https://umass-amherst.zoom.us/j/97956164929)
-
-## Stanley Araki
-
-#### Tuesday, Thursday 5:30PM - 6:30PM
-
-**Location:** [Zoom](https://umass-amherst.zoom.us/j/4852443899)
+- No office hours offered currently at this time.

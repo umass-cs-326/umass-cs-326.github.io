@@ -32,6 +32,13 @@ The following exercises will give you some practice with various aspects of the 
 
 ## Starter Kit
 
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+
+<Tabs>
+
+<TabItem value="starter-kit" label="GitHub Classroom Starter Kit" default>
+
 :::note
 
 Follow the GitHub Classroom assignment link on Moodle first.
@@ -39,6 +46,18 @@ Follow the GitHub Classroom assignment link on Moodle first.
 :::
 
 You are provided a single HTML file named `exercise-03.html`. Although we haven’t discussed HTML files yet, you will write your JavaScript code between the `<script>` tags inside of that HTML file. You may only use the `console.log` function to print values to the browser’s console and `console.assert` to test the functions that you write. You are encouraged to test your code to make sure it works as intended.
+</TabItem>
+
+<TabItem value="manual" label="🔥 GitHub Classroom Not Working 🔥">
+
+:::danger
+
+If the GitHub Classroom invite link is not working. You should create a <strong>private</strong> github repository in your personal account. If you are working with others, you should [add them as collaborators](https://bityl.co/HCR9) to the GitHub repository you created. You should then add a new file called exercise-03.html with the [starter html content](pathname:///exercises/exercise-03.txt) and continue with the exercise.
+
+:::
+
+</TabItem>
+</Tabs>
 
 ![image](https://user-images.githubusercontent.com/60818982/219066123-35124be6-b6b1-46b5-8305-6e8bc6e48e3a.png)
 
