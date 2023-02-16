@@ -1,0 +1,52 @@
+<html>
+  <head>
+    <title>Exercise #5 Histogram</title>
+  </head>
+  <script>
+    // To run this code, simply right-click on this file from
+    // VSCode and select "Open with Live Server". You will need
+    // to have the Live Server extension installed.
+
+    // TODO #1:
+    function decoderRing(rotation) {
+      const obj = {
+        encodeMap: {},
+        decodeMap: {},
+      };
+
+      // (1) Initialize encodeMap & (2) decodeMap
+      for (let i = 0; i < 26; i++) {
+        // YOU DO THIS PART
+      }
+
+      // (2) Write functions for
+      // (2.1) encode
+      obj.encode = function (str) {
+        // YOU DO THIS PART
+      };
+
+      // (2.2) decode
+      obj.decode = function (str) {
+        // YOU DO THIS PART
+      };
+
+      return obj;
+    }
+
+    // TODO #2:
+    // Test 1:
+    // Write your test here
+    console.assert(false);
+
+    // Test 2:
+    // Write your test here
+    console.assert(false);
+
+    // Test 3:
+    // Write your test here
+    console.assert(false);
+
+    // Pro Tip: View the output of your tests by opening up
+    // the console in your browser.
+  </script>
+</html>
