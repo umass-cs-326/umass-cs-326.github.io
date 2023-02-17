@@ -40,44 +40,44 @@ A commit keeps track of who changed what and when they did it. It's very useful 
 
 `git branch` - Lists out all the existing branches on the local repo.
 
-`git checkout -b <branch_name>` - Creates and switches to a new branch. Remove the -b if you want to switch to an existing branch.
+`git checkout -b <branch_name>` - Creates and switches to a new branch. Remove the `-b` if you only want to switch to an existing branch.
 
 `git switch <branch_name>` - Another way to switch branches.
 
-`git merge <branch_name>` - Merges working branch to main/master (do this on main!). If you can, do this through GitHub so you can view all potential merge conflicts first.
+`git merge <branch_name>` - Merges working branch to main/master (do this on **main**!). If you can, do this through GitHub so you can view all potential merge conflicts first.
 
 ### Linking local git projects to GitHub
 
 1. Create an empty repository on GitHub. Unless the repo will contain sensitive material, keep this public
-2. Go to the local copy of the repo that you want to store in GitHub (This assumes you already initialized a local git repository)
-3. Use the following command to set the upload source origin, or **remote** as the GitHub repo you just created
+2. Initialize a new local git repository with `git init`
+3. Go to the local copy of the repo that you want to store in GitHub
+4. Use the following command to set the upload source origin, or **remote** as the GitHub repo you just created
 
    `git remote add origin <repo link>`
 
-4. Check that your remote is set correctly
+5. Check that your remote is set correctly
 
    `git remote -v`
 
-5. Commit and push your changes.
+6. Commit and push your changes.
 
 ---
 
-## TODO
+## GitHub lab activity
 
-1. Create a folder in your machine that will serve as a local repository
-2. Initialize a repo with `git init`
-3. Add a README.md file to your repo and commit (This will create your first branch)
+Please accept the following GitHub assigment and submit your activity. 
+
+[GitHub_Classroom_Link](https://www.GitHub.com/)
+
+### TODO
+
+1. Create a local copy of the lab activity
+2. Open the repository locally on VS Code
 4. Create a branch `my-branch` to edit README.md
 5. Switch to `my-branch`
 6. Edit the contents of README.md in `my-branch`
 7. Add and commit changes to `my-branch`
 8. Switch back to main
 9. Merge contents of `my-branch` into main/master
-10. Link your local git repository with a new public repository in Github.
-11. Push changes to origin main.
-
----
-
-## Submission
-
-TBD
+10. Push changes to origin main
+12. That's it!
