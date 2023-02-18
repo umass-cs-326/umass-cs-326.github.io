@@ -43,15 +43,17 @@ Follow the GitHub Classroom assignment link on Moodle first.
 
 :::
 
-You are provided three files: chessboard.html, chessboard.css, and chessboard.js. The HTML file provides the necessary tags to load in both the CSS and JS files. You do not need to modify this file. Your job is to complete the CSS and JS files to create this 8x8 chessboard application.
+You are provided three files: `chessboard.html`, `chessboard.css`, and `chessboard.js`. The HTML file provides the necessary tags to load in both the CSS and JS files. You do not need to modify this file. Your job is to complete the CSS and JS files to create this 8x8 chessboard application.
 
 ## TODO #1: CSS
 
-Complete the CSS in checkerboard.css provided in the starter kit to duplicate the visual effects shown in the animated image above.
-You will find TODO #1 in the chessboard.css file.
+Complete the CSS in `checkerboard.css` provided in the starter kit to duplicate the visual effects shown in the animated image above.
+
+You will find `TODO #1` in the `chessboard.css` file.
 
 ## TODO #2: JavaScript
 
-Complete the JS in checkerboard.js provided in the starter kit to duplicate the console output behavior shown in the animated image above.
-You will find TODO #2 in the chessboard.js file.
+Complete the JS in `checkerboard.js` provided in the starter kit to duplicate the console output behavior shown in the animated image above.
+
+You will find `TODO #2` in the `chessboard.js` file.
 
