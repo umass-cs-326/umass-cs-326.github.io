@@ -7,8 +7,6 @@
 - Visit Moodle and follow the GitHub Classroom assignment link.
 - See the [calendar](/docs/information/schedule/#homework) for due dates.
 
-!!
-
 ## Submission
 
 You must submit the following to complete this assignment:
