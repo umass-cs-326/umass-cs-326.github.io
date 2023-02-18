@@ -33,7 +33,7 @@ In this exercise you will make a full chess board (8x8) that uses a css grid and
 
 When you click on a square, it will print to the console the coordinates of the square:
 
-(insert gif)
+![chessboard animation](chessboard_animation.gif)
 
 ## Starter Kit
 
