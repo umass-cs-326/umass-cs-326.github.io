@@ -102,7 +102,7 @@ import { PowerPoint } from '@site/src/components/PowerPoint'
 
 ## Code Examples
 
-- [examples/05-objects](https://github.com/umass-cs-326/examples/tree/main/05-objects)
+- [examples/05-classes](https://github.com/umass-cs-326/examples/tree/main/05-classes)
 
 You can view all of the examples by cloning the [examples repository](https://github.com/umass-cs-326/examples).
 
