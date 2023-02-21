@@ -100,6 +100,10 @@ import { PowerPoint } from '@site/src/components/PowerPoint'
 
 <PowerPoint lec_src={require('./05-classes.pptx').default} />
 
+## Exercise
+
+You must complete [Ex5: Decoder Ring Class](../../exercises/decoder-ring-class) by the next class meeting.
+
 ## Code Examples
 
 - [examples/05-classes](https://github.com/umass-cs-326/examples/tree/main/05-classes)
