@@ -87,8 +87,8 @@ Below is the projected schedule for *Spring 2023*. You are welcome to visit any 
 
 *All project assignments are due by 11:59 unless otherwise specified.*
 
-- [Pr1 Join Team](../../project/join-team) (A: 2/16, D: 2/23)
-- [Pr2 Idea](../../project/idea) (A: 2/23, D: 3/7)
+- [Pr1 Join Team](../../project/join-team) (A: 2/21, D: 2/28)
+- [Pr2 Idea](../../project/idea) (A: 2/28, D: 3/7)
 - [Pr3 UI Design](../../project/ui-design) (A: 3/7, D: 3/30)
 - [Pr4 Front-End](../../project/front-end) (A: 3/30, D: 4/25)
 - [Pr5 Back-End](../../project/back-end) (A: 4/25, D: 5/25)
