@@ -13,7 +13,7 @@ For this exercise you will refactor the web page you built in the previous exerc
 
 
 
-![](exercise9.gif)
+![](exercise6.gif)
 
 
 The application works as follows:
