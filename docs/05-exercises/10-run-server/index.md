@@ -1,6 +1,3 @@
-# COMPSCI 326 Web Programming
-
-
 ## Exercise #10 Install Node.js and Run Server
 
 

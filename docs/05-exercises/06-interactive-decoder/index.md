@@ -1,6 +1,3 @@
-# COMPSCI 326 Web Programming
-
-
 ## Exercise #6 Interactive Decoder Web Page
 
 

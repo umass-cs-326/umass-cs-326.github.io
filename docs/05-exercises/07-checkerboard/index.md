@@ -1,6 +1,3 @@
-# COMPSCI 326 Web Programming
-
-
 ## Exercise #7 2x2 Checkerboard
 
 

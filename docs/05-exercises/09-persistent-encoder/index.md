@@ -1,6 +1,3 @@
-# COMPSCI 326 Web Programming
-
-
 ## Exercise #9 Persistent Encoder
 
 
