@@ -1,4 +1,4 @@
-# Exercise #6 Interactive Decoder Web Page
+# Ex6: Interactive Decoder Web Page
 
 
 ---
