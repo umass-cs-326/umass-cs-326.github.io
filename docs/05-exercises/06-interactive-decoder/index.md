@@ -26,7 +26,11 @@ The application works as follows:
 
 # Starter Kit
 
-[Download the Starter Kit!](https://drive.google.com/drive/folders/1KA7pEb3-H0jw4e_wMSahtzUAlAAftvbm?usp=sharing)
+:::note
+
+Follow the GitHub Classroom assignment link on Moodle first.
+
+:::
 
 You are provided the **decoderRingClass.js** solution from the last exercise. This file contains the class definition for the **decoder** and **decoderRing** classes. You will use **decoder** in this exercise to encode/decode text the user enters into the interface. You will not need to make any modifications to that file. We also provide an **index.html** file containing the solution from the previous exercise. Lastly, we provide interactive.js which you will use to write JavaScript functions that set up event handlers for the application’s interactivity. You will need to modify and update both **index.html** and **interactive.js** to build the user interface for our simple interactive encoder/decoder application.
 
@@ -119,7 +123,6 @@ Now that you have tested the functions in the previous TODO, you need to hook ev
 That's it! You should now have a working interactive decoder web application! Use VSCode’s Liver Server extension to run your encoder/decoder web application!
 
 
-# Submission
 
 You must do the following to submit this assignment:
 
@@ -131,7 +134,6 @@ You must do the following to submit this assignment:
 * Check again.
 
 
-# Rubric and Grading
 
 Use the following rubric to satisfy the requirements of this assignment. We will be using this rubric to score your submission
 

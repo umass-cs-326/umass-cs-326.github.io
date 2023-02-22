@@ -14,7 +14,11 @@ The goal of this exercise is to add persistence to the encoder application we sa
 
 # Starter Kit
 
-[Download the Starter Kit!](https://drive.google.com/drive/folders/1hdJsrHDXbBDlsVm74GcAgQajFPMzHvOw?usp=sharing)
+:::note
+
+Follow the GitHub Classroom assignment link on Moodle first.
+
+:::
 
 You are provided two files: **encoder-interactive.html**, **interactive.js**, and **decoder.js**. The HTML file provides the necessary tags to load in both the CSS and JS files. You will be modifying this file to add a button. In the **interactive.js** file you will be adding the necessary logic for data persistence. You do not need to modify the **decoder.js** file. This contains the decoder functionality from the previous exercises.
 
@@ -44,8 +48,6 @@ Complete the JS in **interactive.js** provided in the starter kit to add persist
 You will find **TODO #2** in the **interactive.js** file.
 
 
-# Submission
-
 You must do the following to submit this assignment:
 
 
@@ -55,8 +57,6 @@ You must do the following to submit this assignment:
 * Check to make sure you uploaded your Zip archive to the Moodle assignment.
 * Check again.
 
-
-# Rubric and Grading
 
 Use the following rubric to satisfy the requirements of this assignment. We will be using this rubric to score your submission
 

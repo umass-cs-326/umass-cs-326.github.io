@@ -11,7 +11,11 @@ This exercise is super simple! You are only required to install Node.js (node) a
 
 # Starter Kit
 
-[Download the Starter Kit!](https://drive.google.com/drive/folders/1rFUJo2Gtx7Dwl5fhxqS2cNyqiLGg1Cg-?usp=sharing)
+:::note
+
+Follow the GitHub Classroom assignment link on Moodle first.
+
+:::
 
 You are provided a single file: **server.js**. This JS file contains a rudimentary example of how an HTTP server is written using the core HTTP library that the node environment provides. It is a highly efficient HTTP server designed to write server-side web applications in JavaScript.
 
@@ -44,8 +48,6 @@ node server.js
  \
 Take a screenshot of your terminal. You will submit this as part of this exercise.
 
-
-# Submission
 
 You must do the following to submit this assignment:
 

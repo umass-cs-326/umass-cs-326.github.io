@@ -23,7 +23,11 @@ The application works as follows:
 
 # Starter Kit
 
-[Download the Starter Kit!](https://drive.google.com/drive/folders/15qnwG7Cy_icrLCeLFbtODbjbkFMDKyCT?usp=sharing)
+:::note
+
+Follow the GitHub Classroom assignment link on Moodle first.
+
+:::
 
 You are provided two files: **mini-checkerboard.html** and **mini-checkerboard.css**. Both of these files are mostly empty. Your job is to fill them in to create this 2x2 checkerboard application.
 
@@ -47,8 +51,6 @@ Next, add the CSS rules to duplicate the behavior of the application displayed a
 You will find **TODO #2** in the **mini-checkerboard.css** file.
 
 
-# Submission
-
 You must do the following to submit this assignment:
 
 
@@ -58,8 +60,6 @@ You must do the following to submit this assignment:
 * Check to make sure you uploaded your Zip archive to the Moodle assignment.
 * Check again.
 
-
-# Rubric and Grading
 
 Use the following rubric to satisfy the requirements of this assignment. We will be using this rubric to score your submission
 
