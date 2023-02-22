@@ -1,4 +1,4 @@
-## Exercise #7 2x2 Checkerboard
+# Exercise #7 2x2 Checkerboard
 
 
 ---
