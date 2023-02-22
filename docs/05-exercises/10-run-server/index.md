@@ -1,7 +1,7 @@
 # COMPSCI 326 Web Programming
 
 
-## Exercise #10 2x2 Checkerboard
+## Exercise #10 Install Node.js and Run Server
 
 
 ---
@@ -9,45 +9,43 @@
 
 # Overview
 
-In this exercise, you will make a mini-checkerboard (2x2) that uses CSS grid layout and changes colors as you hover over the grid elements:
-
-
-![](exercise10.gif)
-
-
-**This exercise does not require you to use any code from a previous exercise.**
-
-The application works as follows:
-
-
-
-* The user can hover over a block and the block turns red and displays the word “hello” in white text.
+This exercise is super simple! You are only required to install Node.js (node) and run the node server that was discussed in the lesson. 
 
 
 # Starter Kit
 
-[Download the Starter Kit!](https://drive.google.com/drive/folders/15qnwG7Cy_icrLCeLFbtODbjbkFMDKyCT?usp=sharing)
+[Download the Starter Kit!](https://drive.google.com/drive/folders/1rFUJo2Gtx7Dwl5fhxqS2cNyqiLGg1Cg-?usp=sharing)
 
-You are provided two files: **mini-checkerboard.html** and **mini-checkerboard.css**. Both of these files are mostly empty. Your job is to fill them in to create this 2x2 checkerboard application.
-
-
-# TODO #1: User Interface
-
-This part is really easy. Do the following:
+You are provided a single file: **server.js**. This JS file contains a rudimentary example of how an HTTP server is written using the core HTTP library that the node environment provides. It is a highly efficient HTTP server designed to write server-side web applications in JavaScript.
 
 
+# TODO #1: Install Node.js
 
-1. Add a **&lt;div>** element to mini-checkerboard.html file to represent the entire 2x2 board. You should also have a class and id attribute for this div so your CSS rules can apply rules to it. This will be the container for your 2x2 grid.
-2. Add child **&lt;div>** elements to the above **&lt;div>** to represent each of the squares. You should also have a class attribute for these as well.
-
-You will find **TODO #1** in the **mini-checkerboard.html** file.
+You can install Node.js by [visiting their website](https://nodejs.org/en/download/). There are several different ways to get node on your local computer. Determine which way is the best for you. After you install node, bring up a terminal and type in this command: \
 
 
-# TODO #2: Application Interactivity
 
-Next, add the CSS rules to duplicate the behavior of the application displayed above. You are not allowed to use JavaScript in this application.
+```
+node --version
+```
 
-You will find **TODO #2** in the **mini-checkerboard.css** file.
+
+ \
+Take a screenshot of your terminal. You will submit this as part of this exercise.
+
+
+# TODO #2: Run the HTTP server.
+
+Run the HTTP server like so:
+
+
+```
+node server.js
+```
+
+
+ \
+Take a screenshot of your terminal. You will submit this as part of this exercise.
 
 
 # Submission
@@ -56,21 +54,5 @@ You must do the following to submit this assignment:
 
 
 
-* Create a Zip archive of the folder containing your solution files.
-* Upload this Zip file to the Moodle assignment.
-* Check to make sure you uploaded your Zip archive to the Moodle assignment.
-* Check again.
-
-
-# Rubric and Grading
-
-Use the following rubric to satisfy the requirements of this assignment. We will be using this rubric to score your submission
-
-
-## Exercise (2 points)
-
-
-
-* 2 points, a reasonable attempt was made at completing the exercise, a solid attempt was made at completing all TODOs.
-* 1 point, an attempt was made, but was incomplete or had missing or empty parts, not all TODOs were completed, minimal work.
-* 0 points, empty or no submission.
+* A screenshot of the version of node you installed in your terminal
+* A screenshot of the server running in your terminal
