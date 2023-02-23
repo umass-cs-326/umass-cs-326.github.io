@@ -61,7 +61,7 @@ Below is the projected schedule for *Spring 2023*. You are welcome to visit any 
 - [Ex2 Letter Histogram](../../exercises/letter-histogram) (A: 2/14, D: 2/15)
 - [Ex3 Decoder Ring](../../exercises/decoder-ring) (A: 2/16, D: 2/17)
 - [Ex4 Decoder Ring Class](../../exercises/decoder-ring-class) (A: 2/21, D: 2/22)
-- [Ex5 Decoder Web Page](../../exercises/decoder-web-page) (A: 2/23, D: 2/24)
+- [Ex5 Decoder Web Page](../../exercises/decoder-web-page) (A: 2/23, D: 2/28)
 - [Ex6 Interactive Decoder](../../exercises/interactive-decoder) (A: 2/28, D: 3/1)
 - [Ex7 2x2 Checkerboard](../../exercises/checkerboard) (A: 3/2, D: 3/3)
 - [Ex8 8x8 Chessboard](../../exercises/chessboard) (A: 3/7, D: 3/8)
