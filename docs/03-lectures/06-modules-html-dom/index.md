@@ -75,7 +75,7 @@ import { PowerPoint } from '@site/src/components/PowerPoint'
 
 ## Exercise
 
-You must complete [Ex5: Decoder Ring Class](../../exercises/decoder-ring-class) by the next class meeting.
+You must complete [Ex5: Decoder Web Page](../../exercises/decoder-web-page) by the next class meeting.
 
 ## Code Examples
 
