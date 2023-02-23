@@ -47,11 +47,3 @@ node server.js
 
  \
 Take a screenshot of your terminal. You will submit this as part of this exercise.
-
-
-You must do the following to submit this assignment:
-
-
-
-* A screenshot of the version of node you installed in your terminal
-* A screenshot of the server running in your terminal

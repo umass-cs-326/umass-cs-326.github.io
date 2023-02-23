@@ -48,19 +48,6 @@ Complete the JS in **interactive.js** provided in the starter kit to add persist
 You will find **TODO #2** in the **interactive.js** file.
 
 
-You must do the following to submit this assignment:
-
-
-
-* Create a Zip archive of the folder containing your solution files.
-* Upload this Zip file to the Moodle assignment.
-* Check to make sure you uploaded your Zip archive to the Moodle assignment.
-* Check again.
-
-
-Use the following rubric to satisfy the requirements of this assignment. We will be using this rubric to score your submission
-
-
 ## Exercise (2 points)
 
 

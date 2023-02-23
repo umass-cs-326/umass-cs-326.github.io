@@ -123,21 +123,6 @@ Now that you have tested the functions in the previous TODO, you need to hook ev
 That's it! You should now have a working interactive decoder web application! Use VSCode’s Liver Server extension to run your encoder/decoder web application!
 
 
-
-You must do the following to submit this assignment:
-
-
-
-* Create a Zip archive of the folder containing your solution files.
-* Upload this Zip file to the Moodle assignment.
-* Check to make sure you uploaded your Zip archive to the Moodle assignment.
-* Check again.
-
-
-
-Use the following rubric to satisfy the requirements of this assignment. We will be using this rubric to score your submission
-
-
 ## Exercise (2 points)
 
 
