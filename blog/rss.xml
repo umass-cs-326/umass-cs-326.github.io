@@ -4,10 +4,19 @@
         <title>COMPSCI 326 Blog</title>
         <link>https://umass-cs-326.github.io/blog</link>
         <description>COMPSCI 326 Blog</description>
-        <lastBuildDate>Sun, 12 Feb 2023 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Feb 2023 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Week 3]]></title>
+            <link>https://umass-cs-326.github.io/blog/w3</link>
+            <guid>https://umass-cs-326.github.io/blog/w3</guid>
+            <pubDate>Thu, 23 Feb 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Just a reminder on what is due.]]></description>
+            <content:encoded><![CDATA[<p>Just a reminder on what is due.</p><ul><li>Exercise 4 was due on Wednesday, Feb 22 at 11:59pm.</li><li>Exercise 5 is due on Tuesday, Feb 28 at 11:59pm.</li><li>Homework 2 is due on Tuesday, Mar 7 at 11:59pm.</li></ul><div class="theme-admonition theme-admonition-tip alert alert--success admonition_LlT9"><div class="admonitionHeading_tbUL"><span class="admonitionIcon_kALy"><svg viewBox="0 0 12 16"><path fill-rule="evenodd" d="M6.5 0C3.48 0 1 2.19 1 5c0 .92.55 2.25 1 3 1.34 2.25 1.78 2.78 2 4v1h5v-1c.22-1.22.66-1.75 2-4 .45-.75 1-2.08 1-3 0-2.81-2.48-5-5.5-5zm3.64 7.48c-.25.44-.47.8-.67 1.11-.86 1.41-1.25 2.06-1.45 3.23-.02.05-.02.11-.02.17H5c0-.06 0-.13-.02-.17-.2-1.17-.59-1.83-1.45-3.23-.2-.31-.42-.67-.67-1.11C2.44 6.78 2 5.65 2 5c0-2.2 2.02-4 4.5-4 1.22 0 2.36.42 3.22 1.19C10.55 2.94 11 3.94 11 5c0 .66-.44 1.78-.86 2.48zM4 14h5c-.23 1.14-1.3 2-2.5 2s-2.27-.86-2.5-2z"></path></svg></span>tip</div><div class="admonitionContent_S0QG"><p>Make sure you update your calendar with the due dates for any assignments posted in the <a href="/docs/information/schedule" target="_blank" rel="noopener noreferrer">schedule</a>. You are responsible for managing your own schedule and meeting all deadlines. Please read the <a href="/docs/information/syllabus/#assignment-submission" target="_blank" rel="noopener noreferrer">course policies</a> for more information on how late assignments will be handled.</p></div></div>]]></content:encoded>
+            <category>weeks</category>
+        </item>
         <item>
             <title><![CDATA[Week 2]]></title>
             <link>https://umass-cs-326.github.io/blog/w2</link>
