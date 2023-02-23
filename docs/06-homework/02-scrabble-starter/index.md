@@ -36,7 +36,7 @@ All homework assignments use GitHub Classroom. To start this assignment, you mus
 
     C. Commit those changes:
 
-        `git add -m "a short message about changes`
+        `git commit -m "a short message about changes"`
 
     D. Push those changes to GitHub:
 
