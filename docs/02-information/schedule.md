@@ -5,7 +5,7 @@ sidebar_class_name: green
 
 # Schedule
 
-Below is the projected schedule for *Spring 2023*. You are welcome to visit any of the material at any time. This is the first offering where we are using this website structure for the course. As such, not all the material is currently available, however, we will be updating as we progress through the semester hoping to have the material for each lecture and lab out as early as possible. Each link below will bring you to a page for the particular lecture, lab, assignment, etc. It is your responsibility to monitor the release and due dates of assignments to ensure that you submit on time.
+Below is the projected schedule for _Spring 2023_. You are welcome to visit any of the material at any time. This is the first offering where we are using this website structure for the course. As such, not all the material is currently available, however, we will be updating as we progress through the semester hoping to have the material for each lecture and lab out as early as possible. Each link below will bring you to a page for the particular lecture, lab, assignment, etc. It is your responsibility to monitor the release and due dates of assignments to ensure that you submit on time.
 
 ## Lecture Schedule
 
@@ -38,6 +38,8 @@ Below is the projected schedule for *Spring 2023*. You are welcome to visit any 
 
 ## Lab Schedule
 
+_All lab assignments are due the same day by 11:59 unless otherwise specified._
+
 - [Fr 2/10 - B01 Git and GitHub Basics](../../labs/git-basics)
 - [Fr 2/17 - B02 Git Commands and Repository Creation](../../labs/git-commands)
 - [Fr 2/24 - B03 Advanced Git Usage](../../labs/git-advanced)
@@ -55,7 +57,7 @@ Below is the projected schedule for *Spring 2023*. You are welcome to visit any 
 
 ## Exercises
 
-*All exercise assignments are due the following day by 11:59 unless otherwise specified.*
+_All exercise assignments are due the following day by 11:59 unless otherwise specified._
 
 - [Ex1 Letter Frequency](../../exercises/letter-frequency) (A: 2/9, D: 2/13)
 - [Ex2 Letter Histogram](../../exercises/letter-histogram) (A: 2/14, D: 2/15)
@@ -74,7 +76,7 @@ Below is the projected schedule for *Spring 2023*. You are welcome to visit any 
 
 ## Homework
 
-*All homework assignments are due by 11:59 unless otherwise specified.*
+_All homework assignments are due by 11:59 unless otherwise specified._
 
 - [Hw1 GitHub Classroom](../../homework/github-classroom) (A: 2/9, D: 2/16)
 - [Hw2 Scrabble Starter](../../homework/scrabble-starter) (A: 2/16, D: 3/7)
@@ -85,7 +87,7 @@ Below is the projected schedule for *Spring 2023*. You are welcome to visit any 
 
 ## Project
 
-*All project assignments are due by 11:59 unless otherwise specified.*
+_All project assignments are due by 11:59 unless otherwise specified._
 
 - [Pr1 Join Team](../../project/join-team) (A: 2/21, D: 2/28)
 - [Pr2 Idea](../../project/idea) (A: 2/28, D: 3/7)
