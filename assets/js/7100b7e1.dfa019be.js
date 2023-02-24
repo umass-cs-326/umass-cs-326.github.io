@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[1195],{50757:a=>{a.exports=JSON.parse('{"label":"lab","permalink":"/docs/tags/lab","allTagsPath":"/docs/tags","count":1,"items":[{"id":"labs/git-advanced/index","title":"B03 Advanced Git","description":"There is a submission for this lab.","permalink":"/docs/labs/git-advanced/"}]}')}}]);
