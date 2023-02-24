@@ -7,7 +7,19 @@ tags:
 
 # B03 Advanced Git
 
-_There is a submission for this lab._
+## Information
+
+- Please accept the [GitHub Classroom Assignment](https://classroom.github.com/a/5w7sjgfH) for this lab
+- See the [calendar](/docs/information/schedule/#labs) for due dates.
+
+## Submission
+
+There are two parts to this assignment: the first is practicing some basic git procedures, and the second is creating and resolving a merge conflict.
+
+- The assignment contains a `README.md` file that contains instructions on what to do for each of the two parts. Complete each of the steps in order.
+- You do not need to submit anything to Moodle. We will take your last commit before the deadline as your submission.
+
+Please be sure to ask the staff for help if you get stuck or have any questions.
 
 ## Overview
 
@@ -22,16 +34,3 @@ If you run into a merge conflict when merging locally and you're using VSCode, y
 ## Merge Conflicts
 
 When working in another branch, you might not have all the up to date contents from main in it. For example, while you branched off to work on a new feature, another team member might have already branched off and merged back into main. If they touched the same files as you, this will result in a **merge conflict** when trying to merge your own branch to main. Git/GitHub will require you to resolve these issues and decide which changes are kept in the final merge, and this can be done in the two ways mentioned above.
-
-## Submission
-
-Please accept the [GitHub Classroom Repository](https://) for this lab. There are two parts to this assignment: the first is practicing some basic git procedures, and the second is creating and resolving a merge conflict.
-
-You must submit the following to complete this assignment:
-
-- The assignment contains a `README.md` file that contains instructions on what to do for each of the two parts. Complete each of the steps in order.
-- Push all changes to your GitHub repository by **2/23 11:59PM**. You
-  do not need to submit anything to Moodle. We will take your last
-  commit before the deadline as your submission.
-
-Please be sure to ask the staff for help if you get stuck or have any questions.
