@@ -25,14 +25,13 @@ When working in another branch, you might not have all the up to date contents f
 
 ## Submission
 
-Please accept the [GitHub Classroom Repository](https://) for this lab.
+Please accept the [GitHub Classroom Repository](https://) for this lab. There are two parts to this assignment: the first is practicing some basic git procedures, and the second is creating and resolving a merge conflict.
 
 You must submit the following to complete this assignment:
 
-- Push all changes to your GitHub repository before the end of the day. You
+- The assignment contains a `README.md` file that contains instructions on what to do for each of the two parts. Complete each of the steps in order.
+- Push all changes to your GitHub repository by **2/23 11:59PM**. You
   do not need to submit anything to Moodle. We will take your last
   commit before the deadline as your submission.
 
-### What you need to do
-
-The assignment contains a `README.md`
+Please be sure to ask the staff for help if you get stuck or have any questions.
