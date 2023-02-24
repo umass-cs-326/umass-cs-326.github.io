@@ -59,20 +59,20 @@ _All lab assignments are due the same day by 11:59 unless otherwise specified._
 
 _All exercise assignments are due the following day by 11:59 unless otherwise specified._
 
-- [Ex1 Letter Frequency](../../exercises/letter-frequency) (A: 2/9, D: 2/13)
-- [Ex2 Letter Histogram](../../exercises/letter-histogram) (A: 2/14, D: 2/15)
-- [Ex3 Decoder Ring](../../exercises/decoder-ring) (A: 2/16, D: 2/17)
-- [Ex4 Decoder Ring Class](../../exercises/decoder-ring-class) (A: 2/21, D: 2/22)
-- [Ex5 Decoder Web Page](../../exercises/decoder-web-page) (A: 2/23, D: 2/28)
-- [Ex6 Interactive Decoder](../../exercises/interactive-decoder) (A: 2/28, D: 3/1)
-- [Ex7 2x2 Checkerboard](../../exercises/checkerboard) (A: 3/2, D: 3/3)
-- [Ex8 8x8 Chessboard](../../exercises/chessboard) (A: 3/7, D: 3/8)
-- [Ex9 Persistent Encoder](../../exercises/persistent-encoder) (A: 3/9, D: 3/10)
-- [Ex10 Run Server](../../exercises/run-server) (A: 3/21, D: 3/22)
-- [Ex11 REST and Fetch](../../exercises/rest-and-fetch) (A: 3/28, D: 3/29)
-- [Ex12 CRUD #1](../../exercises/crud-1) (A: 3/30, D: 3/31)
-- [Ex13 CRUD #2](../../exercises/crud-2) (A: 4/4, D: 4/5)
-- [Ex14 Routing](../../exercises/routing) (A: 4/6, D: 4/7)
+- [Ex1 Letter Frequency](../../exercises/letter-frequency) (A: Th 2/9, D: Mo 2/13)
+- [Ex2 Letter Histogram](../../exercises/letter-histogram) (A: Tu 2/14, D: We 2/15)
+- [Ex3 Decoder Ring](../../exercises/decoder-ring) (A: Th 2/16, D: Fr 2/17)
+- [Ex4 Decoder Ring Class](../../exercises/decoder-ring-class) (A: Tu 2/21, D: We 2/22)
+- [Ex5 Decoder Web Page](../../exercises/decoder-web-page) (A: Th 2/23, D: Tu 2/28)
+- [Ex6 Interactive Decoder](../../exercises/interactive-decoder) (A: Tu 2/28, D: Tu 3/7)
+- [Ex7 2x2 Checkerboard](../../exercises/checkerboard) (A: Th 3/2, Tu D: 3/7)
+- [Ex8 8x8 Chessboard](../../exercises/chessboard) (A: Tu 3/7, D: Tu 3/14)
+- [Ex9 Persistent Encoder](../../exercises/persistent-encoder) (A: Th 3/9, D: Tu 3/14)
+- [Ex10 Run Server](../../exercises/run-server) (A: Tu 3/21, D: Tu 3/28)
+- [Ex11 REST and Fetch](../../exercises/rest-and-fetch) (A: Tu 3/28, D: Tu 4/4)
+- [Ex12 CRUD #1](../../exercises/crud-1) (A: Th 3/30, D: Tu 4/4)
+- [Ex13 CRUD #2](../../exercises/crud-2) (A: Tu 4/4, D: Tu 4/11)
+- [Ex14 Routing](../../exercises/routing) (A: Th 4/6, D: Tu 4/11)
 
 ## Homework
 
