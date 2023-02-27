@@ -62,6 +62,10 @@ import { PowerPoint } from '@site/src/components/PowerPoint'
 
 <PowerPoint lec_src={require('./07-dom-events.pptx').default} />
 
+## Exercise
+
+You must complete [Ex6: Interactive Decoder](../../exercises/interactive-decoder) by the next class meeting.
+
 ## Code Examples
 
 - [examples/07-dom-events](https://github.com/umass-cs-326/examples/tree/main/07-dom-events)
