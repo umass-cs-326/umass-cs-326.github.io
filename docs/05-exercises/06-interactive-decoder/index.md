@@ -54,7 +54,7 @@ This part is really easy. Do the following:
 
      ```js
      export { decoder };
-     ``
+     ```
 
 5. Import the `decoder` class into `interactive.js` at the top like so:
 
@@ -65,7 +65,6 @@ This part is really easy. Do the following:
 Now that we have all of that done, we can move on to the next TODO. You may find it helpful to read about [import](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import) and [export](https://developer.mozilla.org/en/docs/web/javascript/reference/statements/export](https://developer.mozilla.org/en/docs/web/javascript/reference/statements/export) from the MDN Web Docs.
 
 You will find **TODO #1** in the `index.html` , `decoderRingClass.js`, and `interactive.js` files.
-
 
 ## TODO #2: Application Interactivity
 
