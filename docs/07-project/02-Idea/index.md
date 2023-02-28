@@ -47,6 +47,8 @@ find your team in a list of teams. Choose your team from the
 list. Your team will be using the same repository for each project
 assignment.
 
+![](gh-teams.png)
+
 :::
 
 We provide you with a base repository for your team project. There
