@@ -42,10 +42,7 @@ Helpful Links:
 
 :::note
 
-Follow the GitHub Classroom assignment link on Moodle first. You will
-find your team in a list of teams. Choose your team from the
-list. Your team will be using the same repository for each project
-assignment.
+Follow the GitHub Classroom assignment link on Moodle first. After you click on the invite link you will be asked to *create or join a team*. Only 1 person on your team needs to create the team on GitHub classroom. Everyone else on the team should *join* the team. Your team name must be **team-N** where **N** is the number of your team in the Google Team Sign up Sheet. For example, if your team is team 3, your team name should be **team-3**. Your team will be using the same repository for each project assignment. Please follow these instructions precisely.
 
 ![](gh-teams.png)
 
