@@ -36,7 +36,7 @@ Helpful Links:
 
 - [Project information in the
   syllabus](/docs/information/syllabus/#team-project)
-- [Project requirements](../project)
+- [Project requirements](../)
 
 ## Starter Kit
 
