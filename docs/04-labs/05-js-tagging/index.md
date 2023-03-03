@@ -1,3 +1,0 @@
-# B05 Milestone 2 Work
-
-Coming soon...
