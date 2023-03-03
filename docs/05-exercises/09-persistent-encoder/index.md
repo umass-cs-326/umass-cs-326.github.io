@@ -46,12 +46,3 @@ Complete the JS in **interactive.js** provided in the starter kit to add persist
 4. Implement the **saveState**, **restoreState**, and **clearState** functions.
 
 You will find **TODO #2** in the **interactive.js** file.
-
-
-## Exercise (2 points)
-
-
-
-* 2 points, a reasonable attempt was made at completing the exercise, a solid attempt was made at completing all TODOs.
-* 1 point, an attempt was made, but was incomplete or had missing or empty parts, not all TODOs were completed, minimal work.
-* 0 points, empty or no submission.
