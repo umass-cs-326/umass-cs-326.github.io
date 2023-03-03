@@ -20,7 +20,7 @@ Below are the office hours offered by the course staff for _Spring 2023_. There 
 
 ## Tuesday
 
-- **Tim Richards (INSTRUCTOR):** 10 AM - 12 PM, LGRC A351A
+- **Tim Richards (INSTRUCTOR):** [Make an appointment](https://eight-army-4c0.notion.site/Office-Hours-1debbdaf4a0f4e19b369f5c3bdca63f0), LGRC A351A
 - **Xinzhi Liang (TA):** 11:30 AM - 2:30 PM, LGRT 222
 - **Isi Bernoff (UCA):** 10 AM - 11 AM, CS207-1
 - **Chou Heng Ieong (UCA):** 1 PM - 2 PM, [zoom](https://umass-amherst.zoom.us/j/3352032138)
@@ -37,7 +37,7 @@ Below are the office hours offered by the course staff for _Spring 2023_. There 
 
 ## Thursday
 
-- **Tim Richards (INSTRUCTOR):** 3 PM - 5 PM, LGRC A351A
+- **Tim Richards (INSTRUCTOR):** [Make an appointment](https://eight-army-4c0.notion.site/Office-Hours-1debbdaf4a0f4e19b369f5c3bdca63f0), LGRC A351A
 - **Rajasi Desai (Head UCA):** 4:30 PM - 6:30 PM, LGRT 223/225
 - **Isi Bernoff (UCA):** 10 AM - 11 AM, CS207-1
 - **Anshul Vemulapalli (UCA):** 3 PM - 4 PM, [zoom](https://umass-amherst.zoom.us/j/97956164929)
