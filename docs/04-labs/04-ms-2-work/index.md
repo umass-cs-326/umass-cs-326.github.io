@@ -5,7 +5,7 @@ tags:
   - assignment
 ---
 
-# B04 Tagging and JS
+# B04 Milestone 2 Work
 
 _There is no submission for this lab._
 
