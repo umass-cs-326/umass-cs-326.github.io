@@ -207,7 +207,7 @@ The following is a self-scoring rubric for this assignment. You should use this 
 - **below expectation**: you worked on the TODO and it is not correct. You may or may not have been on the right track, work is incomplete, difficult to understand, confusion is noticeable, not enough effort, needs substantial work.
 - **unable to evaluate**: no submission, minimal changes, nothing to evaluate.
 
-::: info
+:::info
 
 Complete the Grade Reflection Survey associated with this assignment. A link to this survey can be found on the course LMS.
 
