@@ -181,7 +181,7 @@ You should proceed in the following steps to incrementally render the game board
 
 Lastly, you need to implement the user interface (UI) controls for the Scrabble game. The UI controls include a text box to enter in the word to play, The x and y coordinate of the word on the board, the direction as a drop down box, and a button to play the word:
 
-![](/img/image002.png)
+![](img/image002.png)
 
 Do the following to implement the controls:
 
