@@ -1,4 +1,4 @@
-# HW2: Scrabble Starter
+# Hw2: Scrabble Starter
 
 ![](img/image001.png)
 
@@ -42,8 +42,6 @@ All homework assignments use GitHub Classroom. To start this assignment, you mus
 
         `git push`
 
-4.  Copy your GitHub repository URL into the Moodle assignment and submit
-
 You are also welcome to use use GitHub Desktop and/or VSCode to do
 this, but we highly encourage you to become familiar with the command
 line usage **first** as this is 100% expected in industry and academia.
@@ -54,9 +52,13 @@ line usage **first** as this is 100% expected in industry and academia.
 
 Here are a few general guidelines for this assignment:
 
-It will be helpful to come up with test cases using `console.assert`. This will give you some assurance that your code is working properly. We encourage you to share test cases that you develop with others taking this class. This will make everyone’s code better and is how quality assurance (QA) can work in practice.
+**Use `console.log` to print values to the browser console.** This is a cheap way to ensure that your code is doing what you think it is doing. If nothing displays in the browser window, it is likely that there is an error in your code. Open the console and see if there was an error.
 
-We will be spot checking your code for good coding practices. It is expected your code does not contain (1) extraneous variables/code, (2) missing semicolons, (3) missing curly braces, and (4) use of double equals. Furthermore, you should use whitespace consistently and make the code legible. Many of these issues will be recognized by VSCode and either suggested as corrections or automatically corrected when you save your code.
+**It will be helpful to come up with test cases using `console.assert`.** This will give you some assurance that your code is working properly. We encourage you to share test cases that you develop with others taking this class. This will make everyone’s code better and is how quality assurance (QA) can work in practice.
+
+**We will be spot checking your code for good coding practices.** It is expected your code does not contain (1) extraneous variables/code, (2) missing semicolons, (3) missing curly braces, and (4) use of double equals. Furthermore, you should use whitespace consistently and make the code legible. Many of these issues will be recognized by VSCode and either suggested as corrections or automatically corrected when you save your code.
+
+**Write code in small increments, continually verify that it is working.** It is strongly encouraged that you write your code in small increments and test (or print) that code at each step of the way. Do not write an entire application and then see if it works. If you can verify that your code is working each step of the way, then you can be confident to extend it further.
 
 Please review the [collaboration policy](/docs/information/syllabus/#collaboration-policy) in the Syllabus for further information on what you can and cannot do in terms of sharing of work.
 
