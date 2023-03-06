@@ -107,6 +107,13 @@ You will first implement a `Game` class that will represent (1) a physical Scrab
 
 :::
 
+<details>
+<summary><strong>Tips and Frequency Asked Questions</strong></summary>
+
+There are currently none for this TODO.
+
+</details>
+
 ### TODO #2: Game Play
 
 The `Game` class has a `playAt` method which simulates a player playing a word on the board. The signature of this method is:
@@ -133,6 +140,13 @@ You will notice that the general algorithm already exists in this method. Howeve
 
 :::
 
+<details>
+<summary><strong>Tips and Frequency Asked Questions</strong></summary>
+
+There are currently none for this TODO.
+
+</details>
+
 ### TODO #3: Taking Tiles from the Bag
 
 The `Game` class has a `takeFromBag` method which simulates a player taking the first *n* tiles from the tile bag and returning them. If *n* is greater than the number of remaining tiles, this removes and returns all the tiles from the bag. If the bag is empty, this returns an empty array.
@@ -143,6 +157,13 @@ The `Game` class has a `takeFromBag` method which simulates a player taking the 
 - Make small incremental changes and print values out to test your implementation!
 
 :::
+
+<details>
+<summary><strong>Tips and Frequency Asked Questions</strong></summary>
+
+There are currently none for this TODO.
+
+</details>
 
 ## Part 2: The Rack Class
 
@@ -156,6 +177,13 @@ Next, you will complete the implementation of the `Rack` class meant to represen
 - Make small incremental changes and print values out to test your implementation!
 
 :::
+
+<details>
+<summary><strong>Tips and Frequency Asked Questions</strong></summary>
+
+There are currently none for this TODO.
+
+</details>
 
 ## Part 3: Rendering the Board
 
@@ -177,6 +205,13 @@ You should proceed in the following steps to incrementally render the game board
 
 :::
 
+<details>
+<summary><strong>Tips and Frequency Asked Questions</strong></summary>
+
+There are currently none for this TODO.
+
+</details>
+
 ### TODO #6: Implement UI Controls
 
 Lastly, you need to implement the user interface (UI) controls for the Scrabble game. The UI controls include a text box to enter in the word to play, The x and y coordinate of the word on the board, the direction as a drop down box, and a button to play the word:
@@ -196,6 +231,13 @@ If all goes well, after you click on the “Play!” button the game should disp
 - Make small incremental changes and print values out to test your implementation!
 
 :::
+
+<details>
+<summary><strong>Tips and Frequency Asked Questions</strong></summary>
+
+There are currently none for this TODO.
+
+</details>
 
 ## Self Scoring and Expectations
 
