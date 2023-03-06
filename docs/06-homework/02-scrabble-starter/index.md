@@ -136,7 +136,7 @@ The number of letters and the associated scores for each letter are shown in the
 - 8 points: J ×1, X ×1
 - 10 points: Q ×1, Z ×1
 
-You can also find the scoring on Wikipedia<sup>2</sup>
+You can also find the scoring on [Wikipedia](https://en.wikipedia.org/wiki/Scrabble_letter_distributions).
 
 **Additional specifications for this function include:**
 
@@ -146,10 +146,14 @@ You can also find the scoring on Wikipedia<sup>2</sup>
 
 There are many ways in which to implement this function. We suggest using an object mapping characters to their scores. This function is labeled as **TODO #2** in the `scrabbleUtils.js` file provided with the starter code for this homework.
 
-_You must implement this function._
+*You must implement this function.*
 
-<sup>2</sup>
-[Scrabble letter distributions - Wikipedia](https://en.wikipedia.org/wiki/Scrabble_letter_distributions)
+<details>
+<summary><strong>Tips and Frequency Asked Questions</strong></summary>
+
+1. You can assume that an input to `baseScore()` can contain 1-2 wildcard characters, and this should be factored into the score calculation For example, if I input "cat", I should get 5 points (3 points for "c", 1 point for "a", and 1 point for "t"). If I input "c*t", I should get 4 points (3 points for "c", 1 point for "a", and 0 points for "*").
+
+</details>
 
 ---
 
@@ -192,6 +196,13 @@ function bestPossibleWords(availableTiles)
 This function is labeled as **TODO #4** in the `scrabbleUtils.js` file provided with the starter code for this homework.
 
 _You must implement this function._
+
+<details>
+<summary><strong>Tips and Frequency Asked Questions</strong></summary>
+
+1. `availableTiles` in `bestPossibleWords()` can also contain wildcards, which should be taken into account when returning the best possible words that can be constructed For example, if I have the tiles `{c: 1, t: 1, *: 1}`, I should be able to construct the word "cat" by using those three tiles. When considering the highest scoring words I can construct with these tiles, the word "cat" then should be worth 4 points here (3 points for "c", 1 point for "t", 0 points for "*", not 5 points. You will need to handle the logic for figuring out which letters of a word the potential wildcards are replacing, and then use `baseScore()` to see how much it is worth.
+
+</details>
 
 ---
 
