@@ -1,3 +1,0 @@
-# B05 Tagging and JS
-
-Coming soon...
