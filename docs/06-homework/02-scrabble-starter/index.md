@@ -151,7 +151,7 @@ There are many ways in which to implement this function. We suggest using an obj
 <details>
 <summary><strong>Tips and Frequency Asked Questions</strong></summary>
 
-1. You can assume that an input to `baseScore()` can contain 1-2 wildcard characters, and this should be factored into the score calculation For example, if I input "cat", I should get 5 points (3 points for "c", 1 point for "a", and 1 point for "t"). If I input "c*t", I should get 4 points (3 points for "c", 1 point for "a", and 0 points for "*").
+1. You can assume that an input to `baseScore()` can contain 1-2 wildcard characters, and this should be factored into the score calculation For example, if I input "cat", I should get 5 points (3 points for "c", 1 point for "a", and 1 point for "t"). If I input "`c*t`", I should get 4 points (3 points for "c", 1 point for "a", and 0 points for "`*`").
 
 </details>
 
