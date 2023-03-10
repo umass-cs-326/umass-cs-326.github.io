@@ -48,7 +48,7 @@ _All lab assignments are due the same day by 11:59 unless otherwise specified._
 - [Fr 2/24 - B03 Advanced Git Usage](../../labs/git-advanced)
 - [Fr 3/3 - B04 Milestone 2 Work](../../labs/ms-2-work)
 - [Fr 3/10 - B05 Event Handling](../../labs/event-handling)
-- [Fr 3/17 - B06 Milestone 2 Work](../../event-listeners)
+- [Fr 3/17 - B06 Milestone 2 Work](../../labs/event-listeners)
 - [Fr 3/24 - B07 Milestone 2 Work](../../labs/ms-2-work-1)
 - [Fr 3/31 - B08 Fetch and Async](../../labs/fetch-async)
 - [Fr 4/7 - B09 Routing](../../labs/routing)
