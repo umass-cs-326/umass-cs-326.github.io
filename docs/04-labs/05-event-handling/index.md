@@ -14,6 +14,8 @@ tags:
 
 ## Submission
 
+The assignment has several TODOs split up into three parts that you must complete. They all involve playing around with various event types.
+
 You must submit the following to complete this assignment:
 
 - Push all changes to your GitHub repository before the due date. You do not need to submit anything to Moodle. We will take your last commit before the deadline as your submission.
