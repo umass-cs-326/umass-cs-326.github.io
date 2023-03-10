@@ -21,6 +21,8 @@ There are two parts to this assignment: the first is practicing some basic git p
 
 Please be sure to ask the staff for help if you get stuck or have any questions.
 
+---
+
 ## Overview
 
 As the last of the labs focused on Git, we will be looking at merging branches and dealing with merge conflicts, something that you will most certainly run into when working in teams. We'll also go over the general Git/GitHub workflow again, as well as pull requests.
