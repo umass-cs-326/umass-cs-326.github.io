@@ -9,7 +9,7 @@ tags:
 
 ## Information
 
-- Please accept the [GitHub Classroom Assignment](ss) for this lab
+- Please accept the [GitHub Classroom Assignment](https://classroom.github.com/a/OGbk21J-) for this lab
 - See the [calendar](/docs/information/schedule/#labs) for due dates.
 
 ## Submission
