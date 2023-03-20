@@ -65,9 +65,75 @@ In the above example, we store data in session storage using the `setItem` metho
 
 ## Working with IndexedDB
 
-Let's take a look at how to use IndexedDB in JavaScript:
+IndexedDB is a client-side database storage system that allows web applications to store and retrieve data in a structured way. It is a NoSQL database that stores data in key-value pairs, and it is supported by all modern browsers.
 
+### Creating an IndexedDB Database
 
+To create an IndexedDB database, we use the `indexedDB` object provided by the browser. The following code creates an IndexedDB database called `my_database` with a single object store called `my_object_store`:
+
+```
+const request = window.indexedDB.open('my_database', 1);
+
+request.onupgradeneeded = (event) => {
+  const db = event.target.result;
+  const objectStore = db.createObjectStore('my_object_store', { keyPath: 'id' });
+
+  // Add indexes for searching by name and age
+  objectStore.createIndex('name', 'name', { unique: false });
+  objectStore.createIndex('age', 'age', { unique: false });
+};
+
+request.onerror = (event) => {
+  // Handle errors opening the database
+};
+
+request.onsuccess = (event) => {
+  const db = event.target.result;
+
+  // Use the database
+};
+
+```
+
+This code creates a request to open the `my_database` database with version number `1`. If the database does not exist, the `onupgradeneeded` function is called, which creates the `my_object_store` object store with an `id` key path. The `createIndex` calls add two indexes to the object store for searching by name and age.
+
+### Adding Data to an IndexedDB Database
+
+To add data to the `my_object_store` object store, we use the `add` method:
+
+```
+const transaction = db.transaction(['my_object_store'], 'readwrite');
+const objectStore = transaction.objectStore('my_object_store');
+
+objectStore.add({ id: 1, name: 'John', age: 30 });
+
+```
+
+This code creates a transaction to access the `my_object_store` object store with read-write access. It then adds an object with an `id` of `1`, a `name` of `'John'`, and an `age` of `30` to the object store.
+
+### Retrieving Data from an IndexedDB Database
+
+To retrieve data from the `my_object_store` object store, we use the `get` method:
+
+```
+const transaction = db.transaction(['my_object_store'], 'readonly');
+const objectStore = transaction.objectStore('my_object_store');
+
+const request = objectStore.get(1);
+
+request.onsuccess = (event) => {
+  const data = event.target.result;
+
+  // Use the retrieved data
+};
+
+```
+
+This code creates a transaction to access the `my_object_store` object store with read-only access. It then retrieves the object with an `id` of `1` from the object store using the `get` method.
+
+### Conclusion
+
+IndexedDB is a powerful client-side database storage system that enables web applications to store and retrieve data in a structured way. With IndexedDB, you can build web applications that work offline, provide a better user experience, and are more responsive.
 
 ## Slides
 
