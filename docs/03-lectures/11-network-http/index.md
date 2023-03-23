@@ -22,7 +22,7 @@ You must complete [Ex10: Run Server](../../exercises/run-server) by the assigned
 
 ## Code Examples
 
-- [examples/11-network-http](https://github.com/umass-cs-326/examples/tree/main/11-network-http)
+- [examples/11-networking-http](https://github.com/umass-cs-326/examples/tree/main/11-networking-http)
 
 You can view all of the examples by cloning the [examples repository](https://github.com/umass-cs-326/examples).
 
