@@ -81,7 +81,7 @@ Asynchrony and the event model are essential concepts in JavaScript for handling
 
 ## Slides
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRFFbBs5OQDdNQeTXk11grNBCnH1M3r_SfAOF3Jc7GNhIODjLOuF3KpUFI6kXnCsxMq25-RbwTSTFh1/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRFFbBs5OQDdNQeTXk11grNBCnH1M3r_SfAOF3Jc7GNhIODjLOuF3KpUFI6kXnCsxMq25-RbwTSTFh1/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ## Exercise
 
