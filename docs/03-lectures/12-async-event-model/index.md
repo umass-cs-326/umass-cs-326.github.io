@@ -83,6 +83,8 @@ Asynchrony and the event model are essential concepts in JavaScript for handling
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRFFbBs5OQDdNQeTXk11grNBCnH1M3r_SfAOF3Jc7GNhIODjLOuF3KpUFI6kXnCsxMq25-RbwTSTFh1/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
+The slide deck can be found [here](https://docs.google.com/presentation/d/13sFSjwn_mN-a5GbIbyCT9eicjxyX9994fYWCPKzhqc8/edit?usp=sharing).
+
 ## Exercise
 
 You must complete [Ex11: Rest and Fetch](../../exercises/rest-and-fetch) by the assigned due date.
