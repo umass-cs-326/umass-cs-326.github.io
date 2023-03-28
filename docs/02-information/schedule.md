@@ -72,7 +72,7 @@ _All exercise assignments are due the following day by 11:59 unless otherwise sp
 - [Ex8 8x8 Chessboard](../../exercises/chessboard) (A: Th 3/9, D: Tu 3/21)
 - [Ex9 Persistent Encoder](../../exercises/persistent-encoder) (A: Tu 3/21, D: Tu 3/28)
 - [Ex10 Run Server](../../exercises/run-server) (A: Th 3/23, D: Tu 3/28)
-- [Ex11 REST and Fetch](../../exercises/rest-and-fetch) (A: Tu 3/28, D: Tu 4/4)
+- [Ex11 REST and Fetch](../../exercises/rest-and-fetch) (A: Th 3/30, D: Tu 4/4)
 - [Ex12 CRUD #1](../../exercises/crud-1) (A: Th 3/30, D: Tu 4/4)
 - [Ex13 CRUD #2](../../exercises/crud-2) (A: Tu 4/4, D: Tu 4/11)
 - [Ex14 Routing](../../exercises/routing) (A: Th 4/6, D: Tu 4/11)
