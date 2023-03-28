@@ -108,6 +108,8 @@ You can view all of the examples by cloning the [examples repository](https://gi
 - [await operator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/await), MDN
 - [setTimeout()](https://www.w3schools.com/jsref/met_win_settimeout.asp)
 - [Callback Hell](http://callbackhell.com/)
+- [PouchDB](https://pouchdb.com/)
+- [PouchDB API](https://pouchdb.com/api.html)
 
 ### VSCode
 
