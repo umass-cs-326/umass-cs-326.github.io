@@ -87,7 +87,7 @@ The slide deck can be found [here](https://docs.google.com/presentation/d/13sFSj
 
 ## Exercise
 
-You must complete [Ex11: Rest and Fetch](../../exercises/rest-and-fetch) by the assigned due date.
+No exercise for this lecture.
 
 ## Code Examples
 
