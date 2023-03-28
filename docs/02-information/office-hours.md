@@ -21,7 +21,7 @@ Below are the office hours offered by the course staff for _Spring 2023_. There 
 
 - **Tim Richards (INSTRUCTOR):** [Make an appointment](https://eight-army-4c0.notion.site/Office-Hours-1debbdaf4a0f4e19b369f5c3bdca63f0), LGRC A351A
 - **Sabrina Liang (TA):** 11:30 AM - 2:30 PM, LGRT 222
-- **Isi Bernoff (UCA):** 10 AM - 11 AM, CS207-1
+- **Isi Bernoff (UCA):** 10 AM - 11 AM, [zoom](https://umass-amherst.zoom.us/j/97524769680)
 - **Chou Heng Ieong (UCA):** 1 PM - 2 PM, [zoom](https://umass-amherst.zoom.us/j/3352032138)
 - **Anshul Vemulapalli (UCA):** 2 PM - 3 PM, LGRT-222
 - **Stanley Araki (UCA):** 5:30 PM - 6:30 PM, [zoom](https://umass-amherst.zoom.us/j/4852443899)
@@ -38,7 +38,7 @@ Below are the office hours offered by the course staff for _Spring 2023_. There 
 
 - **Tim Richards (INSTRUCTOR):** [Make an appointment](https://eight-army-4c0.notion.site/Office-Hours-1debbdaf4a0f4e19b369f5c3bdca63f0), LGRC A351A
 - **Rajasi Desai (Head UCA):** 4:30 PM - 6:30 PM, LGRT 223/225
-- **Isi Bernoff (UCA):** 10 AM - 11 AM, CS207-1
+- **Isi Bernoff (UCA):** 10 AM - 11 AM, [zoom](https://umass-amherst.zoom.us/j/97524769680)
 - **Anshul Vemulapalli (UCA):** 3 PM - 4 PM, [zoom](https://umass-amherst.zoom.us/j/97956164929)
 - **Stanley Araki (UCA):** 5:30 PM - 6:30 PM, [zoom](https://umass-amherst.zoom.us/j/4852443899)
 
