@@ -143,6 +143,12 @@ Finally, we log the data to the console using `console.log`, and use a `try`...`
 
 The Fetch API provides a powerful and flexible interface for making HTTP requests in JavaScript. With the help of RESTful APIs, developers can easily consume and manipulate data from different sources, opening up a world of possibilities for building web applications.
 
+## Slides
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQAFGs3qX4Hc67OIjAabelUL47LSd9CMbmFzpNpLHfttdFeVdtGlgvO-kpm1tFwdSu8xWGNEWovMIGH/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+The slide deck can be found [here](https://docs.google.com/presentation/d/1thfcQakp4H_WITU19V4WwCUg1a5RHtbrDTYEQw-NHAE/edit?usp=sharing).
+
 ## Exercise
 
 You must complete [Ex11: Rest and Fetch](../../exercises/rest-and-fetch) by the assigned due date.
