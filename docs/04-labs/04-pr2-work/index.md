@@ -5,7 +5,7 @@ tags:
   - assignment
 ---
 
-# B04 Milestone 2 Work
+# B04 Pr2 Work
 
 _There is no submission for this lab._
 
