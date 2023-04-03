@@ -29,7 +29,7 @@ Below are the office hours offered by the course staff for _Spring 2023_. There 
 ## Wednesday
 
 - **Harrison Geissler (TA):** 9 AM - 12 PM, CS207
-- **Sridhama Prakhya (TA):** 2 PM - 5 PM, [zoom](https://umass-amherst.zoom.us/my/sridhama)
+- **Sridhama Prakhya (TA):** 1 PM - 4 PM, [zoom](https://umass-amherst.zoom.us/my/sridhama)
 - **Seth Franklin (UCA):** 2:45 PM - 3:45 PM, [zoom](https://umass-amherst.zoom.us/my/seth.franklin)
 - **Chou Heng Ieong (UCA):** 11 AM - 12 PM, [zoom](https://umass-amherst.zoom.us/j/3352032138)
 
