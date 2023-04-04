@@ -93,7 +93,7 @@ You will find **TODO #1** in the `memcrud.js` file.
 
 If you have satisfied the Meeting Standards level of this assignment and you want to go above and beyond, you can try to do one or all of the following:
 
-- Create a second version of the `memcrud.js` called `pouchcrud.js`. Replace the home grown JSON file with a [PouchDB](https://pouchdb.com/download.html#npm) database. Note, you will need to install the PouchDB library using `npm install --save pouchdb` and then import it into your code using `import PouchDB from 'pouchdb';`. You will also need to create a new database instance using `const db = new PouchDB('counter');`.
+- Create a second version of the `memcrud.js` called `pouchcrud.js`. Replace the home grown JSON file with a [PouchDB](https://pouchdb.com/download.html#npm) database. Note, you will need to [install](https://pouchdb.com/api.html) the PouchDB library using `npm install --save pouchdb` and then import it into your code using `import PouchDB from 'pouchdb';`. You will also need to create a new database instance using `const db = new PouchDB('counter');`.
 
 You are always welcome to try something else that is not listed here. The sky is the limit! Just make sure you document what you did in the associated submission form.
 
