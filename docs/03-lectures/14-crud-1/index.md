@@ -62,7 +62,14 @@ Finally, we demonstrate how to use these functions by adding two data objects to
 
 The slide deck can be found [here](https://docs.google.com/presentation/d/1gj0h4hPc0dEIm1ukTAdy3DH26tps3ykJsY_iRGDjV2c/edit?usp=sharing).
 
-The Jamboard can be found [here](https://jamboard.google.com/d/1DDkllAITF2miUp3UO0a9b11Fm2f96aFDJN-YQuXzo7I/edit?usp=sharing).
+The Jamboard can be found [here](https://jamboard.google.com/d/
+1DDkllAITF2miUp3UO0a9b11Fm2f96aFDJN-YQuXzo7I/edit?usp=sharing).
+
+## Code Examples
+
+- [examples/14-crud-1](https://github.com/umass-cs-326/examples/tree/main/14-crud-1)
+
+You can view all of the examples by cloning the [examples repository](https://github.com/umass-cs-326/examples).
 
 ## Exercise
 
