@@ -1,34 +1,40 @@
 # Ex12: CRUD #1
 
-
----
-
-
 ## Overview
 
 The goal of this exercise is to implement a basic CRUD server in two parts. You will understand the basic logic to manage state as a JavaScript object. Your job is to save and restore that state from a file.
 
-
 ## Starter Kit
 
+:::note
 
+Follow the GitHub Classroom assignment link on Moodle first.
 
+:::
+
+## Submission
+
+You must submit the following to complete this exercise:
+
+1. The associated assignment survey on Moodle.
+
+You must ensure that you have completed this exercise and committed your work to your GitHub repository before submitting the assignment survey on Moodle. You are required to submit a link to the commit that you are self reviewing and that we may use to review your work.
+
+Your submission time/date is based on the time/date of the assignment survey submission available from Moodle. You are responsible for ensuring that your submission is complete and accurate.
+
+If your survey submission is late, tokens will be automatically deducted from your token count. You will be notified of the number of tokens deducted from your token count as part of your score report in an email.
 
 ## CRUD Server Walk Through
 
 You will notice a `package.json` file in the starter template. This is necessary to use ES6 module syntax (imports) in a Node.js environment. It is also used for a variety of other things including tracking library dependencies. We will see this at a later point. In addition, you will see `memcrud.js`, this is the code that you will extend. This is a completely worked out example for managing a non-persistent counter with CRUD. You can run this code as is with from a command prompt using the following command inside the starter kit folder:
 
-
-
 ```js
 node memcrud.js
 ```
 
-
 With the server running, you can test it by entering the following URLs into your browser:
 
-
-```js
+```text
 localhost:8080/create?name=counter1   // counter1 should now be 0 (counter[counter1] = 0)
 localhost:8080/create?name=counter2   // counter2 should now be 0
 localhost:8080/update?name=counter3   // should produce an error since there's no counter3
@@ -40,20 +46,24 @@ localhost:8080/read?name=counter2     // this time it should fail
 localhost:8080/read?name=counter1     // should output 2
 ```
 
-If you interrupt your server and then restart it, you should see that the counter values are all gone:
+If you interrupt your server (`C-c`) and then restart it, you should see that the counter values are all gone:
 
-
-```js
+```text
 localhost:8080/read?name=counter1
 // the counter doesn't exist because as far as the server is concerned, it was never created!
 ```
 
-## TODO #1: Saving State on the File System
+## 😎 Meeting Standards 😎
+
+**Meeting Standards is considered B to A- quality work**.
+
+This level of work meets the requirements of the assignment. It is expected that you will be able to complete this level of work with minimal assistance and complete it by the assigned due date with a correct solution. By completing this level of work, you will be able to demonstrate that you have met the learning objectives of the assignment and of the course and are prepared to be successful in future assignments and subsequent courses that have this course as a prerequisite.
+
+### TODO #1: Saving State on the File System
 
 Now, you are going to extend the template code to provide persistence. You are probably familiar with the usual way one makes things in memory persistent: you write them to disk. That's what we're going to do for this TODO.
 
 First, we will save the file in a JSON file called `counter.json`. Put this near the top of the `memcrud.js` file.
-
 
 ```js
 const JSONfile = 'counter.json';
@@ -77,28 +87,14 @@ Go ahead and terminate your server, and open the file `counter.json`. You should
 
 You will find **TODO #1** in the `memcrud.js` file.
 
+## 🚀 Exceeding Standards 🚀
 
-## Submission
+**Exceeding Standards is considered A-quality work**.
 
-You must do the following to submit this assignment:
+If you have satisfied the Meeting Standards level of this assignment and you want to go above and beyond, you can try to do one or all of the following:
 
+- Create a second version of the `memcrud.js` called `pouchcrud.js`. Replace the home grown JSON file with a [PouchDB](https://pouchdb.com/download.html#npm) database. Note, you will need to install the PouchDB library using `npm install --save pouchdb` and then import it into your code using `import PouchDB from 'pouchdb';`. You will also need to create a new database instance using `const db = new PouchDB('counter');`.
 
+You are always welcome to try something else that is not listed here. The sky is the limit! Just make sure you document what you did in the associated submission form.
 
-* Create a Zip archive of the folder containing your solution files.
-* Upload this Zip file to the Moodle assignment.
-* Check to make sure you uploaded your Zip archive to the Moodle assignment.
-* Check again.
-
-
-## Rubric and Grading
-
-Use the following rubric to satisfy the requirements of this assignment. We will be using this rubric to score your submission
-
-
-### Exercise (2 points)
-
-
-
-* 2 points, a reasonable attempt was made at completing the exercise, a solid attempt was made at completing all TODOs.
-* 1 point, an attempt was made, but was incomplete or had missing or empty parts, not all TODOs were completed, minimal work.
-* 0 points, empty or no submission.
+**You will only receive credit for the Exceeding Standards level of work if you have completed the Meeting Standards level of work. Do not attempt to complete the Exceeding Standards level of work until you have completed the Meeting Standards level of work as it will be ignored.**

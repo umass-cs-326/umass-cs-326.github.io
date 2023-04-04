@@ -34,7 +34,7 @@ If your survey submission is late, tokens will be automatically deducted from yo
 
 ## 😎 Meeting Standards 😎
 
-**Meeting Standards is considered B-quality work**.
+**Meeting Standards is considered B to A- quality work**.
 
 This level of work meets the requirements of the assignment. It is expected that you will be able to complete this level of work with minimal assistance and complete it by the assigned due date with a correct solution. By completing this level of work, you will be able to demonstrate that you have met the learning objectives of the assignment and of the course and are prepared to be successful in future assignments and subsequent courses that have this course as a prerequisite.
 
