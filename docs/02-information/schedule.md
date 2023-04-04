@@ -72,9 +72,9 @@ _All exercise assignments are due the following day by 11:59 unless otherwise sp
 - [Ex9 Persistent Encoder](../../exercises/persistent-encoder) (A: Tu 3/21, D: Tu 3/28)
 - [Ex10 Run Server](../../exercises/run-server) (A: Th 3/23, D: Tu 3/28)
 - [Ex11 REST and Fetch](../../exercises/rest-and-fetch) (A: Th 3/30, D: Tu 4/4)
-- [Ex12 CRUD #1](../../exercises/crud-1) (A: Th 3/30, D: Tu 4/4)
-- [Ex13 CRUD #2](../../exercises/crud-2) (A: Tu 4/4, D: Tu 4/11)
-- [Ex14 Routing](../../exercises/routing) (A: Th 4/6, D: Tu 4/11)
+- [Ex12 CRUD #1](../../exercises/crud-1) (A: Tu 4/4, D: Tu 4/11)
+- [Ex13 CRUD #2](../../exercises/crud-2) (A: Th 4/6, D: Tu 4/11)
+- [Ex14 Routing](../../exercises/routing) (A: Tu 4/11, D: Th 4/20)
 
 ## Homework
 
@@ -93,7 +93,7 @@ _All project assignments are due by 11:59 unless otherwise specified._
 
 - [Pr1 Join Team](../../project/join-team) (A: 2/21, D: 2/28)
 - [Pr2 Idea](../../project/idea) (A: 2/28, D: 3/7)
-- [Pr3 UI Design](../../project/ui-design) (A: 3/7, D: 4/3)
-- [Pr4 Front-End](../../project/front-end) (A: 4/5, D: 4/25)
+- [Pr3 UI Design](../../project/ui-design) (A: 3/7, D: 4/6)
+- [Pr4 Front-End](../../project/front-end) (A: 4/6, D: 4/25)
 - [Pr5 Back-End](../../project/back-end) (A: 4/25, D: 5/25)
 - [Pr6 Showcase](../../project/showcase) (A: 4/25, D: 5/17)
