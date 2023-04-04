@@ -94,6 +94,6 @@ _All project assignments are due by 11:59 unless otherwise specified._
 - [Pr1 Join Team](../../project/join-team) (A: 2/21, D: 2/28)
 - [Pr2 Idea](../../project/idea) (A: 2/28, D: 3/7)
 - [Pr3 UI Design](../../project/ui-design) (A: 3/7, D: 4/3)
-- [Pr4 Front-End](../../project/front-end) (A: 4/3, D: 4/25)
+- [Pr4 Front-End](../../project/front-end) (A: 4/5, D: 4/25)
 - [Pr5 Back-End](../../project/back-end) (A: 4/25, D: 5/25)
 - [Pr6 Showcase](../../project/showcase) (A: 4/25, D: 5/17)
