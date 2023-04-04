@@ -98,3 +98,23 @@ If you have satisfied the Meeting Standards level of this assignment and you wan
 You are always welcome to try something else that is not listed here. The sky is the limit! Just make sure you document what you did in the associated submission form.
 
 **You will only receive credit for the Exceeding Standards level of work if you have completed the Meeting Standards level of work. Do not attempt to complete the Exceeding Standards level of work until you have completed the Meeting Standards level of work as it will be ignored.**
+
+## 🕊️ Approaching Standards 🕊️
+
+**Approaching Standards is considered C-quality work**.
+
+This level of work indicates that you are not quite meeting the standards for the assignment, but you are making progress. You should be able to complete the assignment with some guidance and/or additional work. You have demonstrated some understanding of the concepts, but you haven't completely showed that you understand the concepts entirely. You are likely to struggle on future assignments and/or subsequent courses that have this course as a prerequisite.
+
+If you struggled with this assignment, but you understand the concepts and have some understanding of how to solve it, but your application of that understanding is not quite there, incomplete, or incorrect, then your score is at the Approaching Standards level.
+
+You should consider seeking help from another student in the class, a TA/UCA, or the instructor.
+
+## 🛟 Below Standards 🛟
+
+**Below Standards is considered D-quality work**.
+
+This level of work indicates that you are not meeting the standards for the assignment. You do not understand the concepts and/or you have not demonstrated any understanding of the concepts. You have not made any significant progress on the assignment. You are likely to significantly struggle on future assignments and/or subsequent courses that have this course as a prerequisite.
+
+If you struggled with this assignment and you do not understand how to solve it, do not understand where to start, or even entirely understand the code provided or the code you wrote, your score is at the Below Standards level.
+
+You should consider seeking help from another student in the class, a TA/UCA, or the instructor.
