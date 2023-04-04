@@ -11,7 +11,7 @@ The goal of this exercise is to implement a basic CRUD server in two parts. You 
 
 ## Starter Kit
 
-[Download the Starter Kit!](https://drive.google.com/drive/folders/1SWrQrI2MuhuB_aXacpwvA__osP4t0zpl?usp=sharing)
+
 
 
 ## CRUD Server Walk Through
