@@ -170,3 +170,4 @@ You can view all of the examples by cloning the [examples repository](https://gi
 ### VSCode
 
 - [VSCode Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer), an extension we will end up using quite a bit for several weeks.
+- [PostgreSQL](https://marketplace.visualstudio.com/items?itemName=ckolkman.vscode-postgres), an extension that allows you to connect to a PostgreSQL database and run queries.
