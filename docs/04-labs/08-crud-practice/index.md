@@ -1,3 +1,0 @@
-# B08 CRUD Practice
-
-Coming soon...
