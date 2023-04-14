@@ -50,7 +50,7 @@ _All lab assignments are due the same day by 11:59 unless otherwise specified._
 - [Fr 3/10 - B05 Event Handling](../../labs/event-handling)
 - [Fr 3/24 - B06 Pr3 UI Design Work](../../labs/pr3-work)
 - [Fr 3/31 - B07 Fetch Practice](../../labs/fetch-practice)
-- Fr 4/7 - B08 Pr3 Help Session
+- [Fr 3/24 - B08 Pr3 UI Design Work](../../labs/pr3-work-1)
 - [Fr 4/14 - B09 Advanced Express](../../labs/advanced-express)
 - [Fr 4/21 - B10 Pr4 Front-End Work](../../labs/pr4-work)
 - [Fr 4/28 - B11 Pr5 Back-End Work](../../labs/pr5-work-1)
