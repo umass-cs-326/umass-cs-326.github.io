@@ -6,7 +6,7 @@ This is the next part of a series of assignments around the game of Scrabble. We
 
 In particular, this is what your web application will resemble in the end:
 
-![image1.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/201f618d-bde6-4d1f-8469-2d20c657b23a/image1.png)
+![image1.png](image1.png)
 
 ## Submission
 
@@ -226,7 +226,7 @@ If you have satisfied the Meeting Standards level of this assignment and you wan
 
 ### Part 4 (Client): Scrabble Multiplayer
 
-![image1.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/201f618d-bde6-4d1f-8469-2d20c657b23a/image1.png)
+![image1.png](image1.png)
 
 In this last part, you will add a second player to the game. In the original Scrabble, you can only see your own tiles, whereas here we will just show both player’s tiles on the screen. The second player needs their own rack of tiles.  Both players should be able to name themselves via an input field next to their rack. You will then make the game turn-based by letting each player play one after another and by displaying a message indicating whose turn it is. We will not enforce rules yet (having to play a word in the center first / building on previous tiles after) or fix our score calculation: you will implement this in a later homework.
 
