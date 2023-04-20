@@ -220,7 +220,7 @@ You will find TODOs in `server/index.js` for guidance.
 
 **Exceeding Standards is considered A-quality work**.
 
-If you have satisfied the Meeting Standards level of this assignment and you want to go above and beyond, you can try to do one or all of the following below.
+If you have satisfied the Meeting Standards level of this assignment and you want to go above and beyond, you should complete the task below. By completing this task, you will be able to demonstrate that you have exceeded the learning objectives of the assignment and of the course and are prepared to be successful in future assignments and subsequent courses that have this course as a prerequisite.
 
 ---
 
