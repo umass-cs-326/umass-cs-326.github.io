@@ -12,7 +12,7 @@ See the calendar for due dates.
 
 You must submit the following to complete this assignment:
 
-1. **Team Submission** Push all changes to your GitHub repository before the due date. You do not need to submit anything to Moodle. We will take your last commit before the deadline as your submission. All team members must add commit, and push to the repository. We will ask you about your contributions in the Grade Reflection survey, so be prepared to provide evidence of your contributions. See the [Version Control](https://umass-cs-326.github.io/docs/project/ui-design/#version-control-git) section below for additional information and requirements.
+1. **Team Submission** Push all changes to your GitHub repository before the due date. You do not need to submit anything to Moodle. We will take your last commit before the deadline as your submission. All team members must add commit, and push to the repository. We will ask you about your contributions in the Grade Reflection survey, so be prepared to provide evidence of your contributions. See the [Version Control](#version-control) section below for additional information and requirements.
 2. **Individual Submission:** Complete the Grade Reflection survey associated with this assignment on Moodle. You will be asked to reflect on your team's performance and your individual contributions to the project. Everyone on the team must complete the survey. You will be asked to provide evidence of your contributions to the project. **We will not review your project until you have completed the Grade Reflection survey.**
 
 Helpful Links:
