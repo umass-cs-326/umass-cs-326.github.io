@@ -60,22 +60,6 @@ In addition to MongoDB and CouchDB, there are many other document-oriented datab
 
 NoSQL databases, especially document-oriented databases like MongoDB and CouchDB, have become increasingly popular choices for handling large volumes of unstructured data. With their flexible data models and powerful query capabilities, these databases offer a scalable and efficient approach to data management for modern data-driven applications.
 
-## Node MongoDB Driver
-
-The [Node MongoDB Driver](https://mongodb.github.io/node-mongodb-native/) is the official MongoDB driver for Node.js. It provides a high-level API for interacting with MongoDB databases from Node.js applications.
-
-The Node MongoDB Driver is available as an npm package:
-
-```bash
-npm install mongodb
-```
-
-The Node MongoDB Driver provides a high-level API for interacting with MongoDB databases from Node.js applications. It supports all major MongoDB features, including:
-
-- CRUD operations
-
-
-
 ## Slides
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQOWT412u6hfR0jzd7F5qdmcfk36YqgbkZ5RDkBO472_TTmD1XiLwdlRngqoHLaLEUvdH5A9fYW1gfv/embed?start=false&loop=false&delayms=3000" frameborder="0" width="680" height="449" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
