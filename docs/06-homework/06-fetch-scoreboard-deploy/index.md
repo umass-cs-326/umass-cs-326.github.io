@@ -1,7 +1,5 @@
 # Hw6: Scrabble Express, Fetch, Database, and Deployment
 
-**This homework has a total of 70 points.**
-
 -----
 ## **Overview**
 This is the final part of a series of assignments around the game of Scrabble. We hope that this will be a fun experience in implementing the pieces of modern web development, so as to engineer a functional game. In this assignment, we will add (most of) the Scrabble rules regarding placement and scoring, as well as use our RESTful API we completed in the previous homework.
@@ -58,15 +56,13 @@ This script will run the code written in **server/index.js** file. You can run t
 | :- |
 
 This will run the server. At that point, you can open your browser to <http://localhost:3000> and the scrabble application will appear. Now, you need to complete the TODOs below.
-## **Part 0 (2 points): GitHub Commits**
+## **Part 0: GitHub Commits**
 ### ***TODO #0: GitHub Commits***
-You must have at least 5 GitHub commits to receive credit for this part. It is always good practice to design and develop code incrementally. As part of that process you should be making frequent commits to keep a record of your changes along the way. We apply a 4-point scale to the scoring of this part. 4 points when you have commits >= 5, 3 points for 4 commits, 2 points for 3 commits, 1 point for 2 commits, and 0 points for <= 1 commits.
+You must have at least 5 GitHub commits to receive credit for this part. It is always good practice to design and develop code incrementally. As part of that process you should be making frequent commits to keep a record of your changes along the way.
 
-|<h3>**Part 0 Rubric / 2 Points**</h3>|
-| :-: |
-|<p>**TODO 0: Number of commits**</p><p align="left">- 0 points if you have < 5 commits</p><p align="left">- 1 points if you have >= 5 commits</p>
-|<p>**TODO 0: Quality of commits**</p><p align="left">- 0 points if you have < 5 commits and your commit messages are not all good</p><p align="left">- 1 points if you have >= 5 commits and your commit messages are all good</p><p align="left">Examples of poor commit messages:</p><p align="left">- "fixed some stuff"</p><p align="left">- "update"</p><p align="left">- "made some changes"</p><p align="left">- "refactored the function"</p><p align="left">Examples of good commit messages (this commit will…):</p><p align="left">- "Add /happy route to server/index.js"</p><p align="left">- "Add fix to Dictionary class to convert to lowercase letters"</p><p align="left">- "Add margin to scrabble board to prevent overlapping tiles"</p><p align="left">- "Extend scrabble rules to prevent overlapping tiles"</p>|
-## **Part 1 (20 points): Refactoring Server to Use Express (Server)**
+Examples of poor commit messages:</p><p align="left">- "fixed some stuff"</p><p align="left">- "update"</p><p align="left">- "made some changes"</p><p align="left">- "refactored the function"</p><p align="left">Examples of good commit messages (this commit will…):</p><p align="left">- "Add /happy route to server/index.js"</p><p align="left">- "Add fix to Dictionary class to convert to lowercase letters"</p><p align="left">- "Add margin to scrabble board to prevent overlapping tiles"</p><p align="left">- "Extend scrabble rules to prevent overlapping tiles"</p>
+
+## **Part 1: Refactoring Server to Use Express (Server)**
 In the previous homework we used the built-in Node.js **http** module to create a server. In this assignment, we will be using ExpressJS to refactor the Scrabble  server and its endpoints. We have provided the basic scaffolding to get you started. You are welcome to use code you implemented in your solution to the previous homework or use our code out of the box. You will need to do the following in the **server/index.js** file:
 
 ### ***TODO #1: Import libraries***
@@ -197,12 +193,7 @@ This endpoint will be used to get the top 10 game scores saved on the server (or
 
 `[{ "name": "Artemis", "score": 650 }, *...*, { "name": "Parzival", "score": 513 }]`
 
-
-|<h3>**Part 1 Rubric / 20 Points**</h3>|
-| :-: |
-|<p>**TODO 1-3: imports and express application setup**</p><p align="left">- 0 points for very little or no implementation</p><p align="left">- 4 points if there is code and your correctly wrote it</p>
-|<p>**TODO 4-7: API endpoints**</p><p align="left">- 0 points for very little or no implementation</p><p align="left">- 1 point if there is code, little effort, does not appear to be implemented correctly</p><p align="left">- 2 points if there is code, some effort, does not appear to be correct</p><p align="left">- 3 points if there is code, there is effort, most correct, but some errors</p><p align="left">- 4 points if there is code, clear effort, appears to be correct, documented</p>|
-## **Part 2 (40 points): Add Score Board Feature (Client)**
+## **Part 2: Add Score Board Feature (Client)**
 In Part 1 we refactored the server to use ExpressJS to service routes for handling scores. Now, we are going to add a feature to display a score board in the Scrabble user interface. This feature will support the following:
 
 - Display the player name, word, and score each time a player plays a word
@@ -231,14 +222,7 @@ In **client/main.js** you need to add an event listener for a click event on the
 1. After the loop, get the **top-10-score-board** element identified in **client/index.html** and use it to render the top 10 score board using the **topWordAndGameScoreBoard** we imported from **client/scoreboard.js**.
 
 
-|<h3>**Part 2 Rubric / 40 Points**</h3>|
-| :-: |
-|<p>**TODO 8-9: using fetch to communicate with server**</p><p align="left">- 0 points for very little or no implementation</p><p align="left">- 1 point if there is code, little effort, does not appear to be implemented correctly</p><p align="left">- 2 points if there is code, some effort, does not appear to be correct</p><p align="left">- 3 points if there is code, there is effort, most correct, but some errors</p><p align="left">- 4 points if there is code, clear effort, appears to be correct, documented</p>
-|<p>**TODO 10: rendering the top word and game scores**</p><p align="left">- 0 points for very little or no implementation</p><p align="left">- 2 point if there is code, little effort, does not appear to be implemented correctly</p><p align="left">- 4 points if there is code, some effort, does not appear to be correct</p><p align="left">- 8 points if there is code, there is effort, most correct, but some errors</p><p align="left">- 12 points if there is code, clear effort, appears to be correct, documented</p>
-|<p>**TODO 11: adding the “End” button**</p><p align="left">- 0 points for very little or no implementation</p><p align="left">- 1 the button exists, but it doesn’t have an id</p><p align="left">- 2 the button exists and has an id</p>
-|<p>**TODO 12: save the word score and render it to the UI**</p><p align="left">- 0 points for very little or no implementation</p><p align="left">- 1 point if there is code, little effort, does not appear to be implemented correctly</p><p align="left">- 2 points if there is code, some effort, does not appear to be correct</p><p align="left">- 3 points if there is code, there is effort, most correct, but some errors</p><p align="left">- 4 points if there is code, clear effort, appears to be correct, documented</p>
-|<p>**TODO 13: handle a click event when “End” button is clicked**</p><p align="left">- 0 points for very little or no implementation</p><p align="left">- 4 point if there is code, little effort, does not appear to be implemented correctly</p><p align="left">- 8 points if there is code, some effort, does not appear to be correct</p><p align="left">- 12 points if there is code, there is effort, most correct, but some errors</p><p align="left">- 14 points if there is code, clear effort, appears to be correct, documented</p>|
-## **Part 3 (8 points) - Exceeding Work: Database and Deployment**
+## **Part 3 - Exceeding Work: Database and Deployment**
 To have an application running in the cloud is truly an amazing experience. In this part you are to extend the Scrabble application to use a database (either Postgresql or MongoDB) and deploy the Scrabble application to Heroku. Most of this part is configuration, however, you will need to replace the file-based persistence in **server/database.js** with calls to a database. You should follow the process outlined in the lessons that precede this homework.
 
 You will need to capture some screenshots to submit for this assignment. Create a new folder in your GitHub repository called **part-3-evidence**. Screenshots will be placed in this folder.
@@ -249,9 +233,4 @@ You must implement the database calls in **server/database.js**. After completin
 ### ***TODO #15: Deploy Scrabble to Heroku***
 After you deploy Scrabble to Heroku, provide a screenshot of the Heroku configuration of the application in the Heroku dashboard. You must also update your README.md in your repository to include a link to your application running on Heroku.
 
-
-|<h3>**Part 3 Rubric / 8 Points**</h3>|
-| :-: |
-|<p>**TODO 14: add a database**</p><p align="left">- 0 a database wasn’t added</p><p align="left">- 2 an implementation was started, but it is either incomplete or not entirely correct</p><p align="left">- 4 there is code and it looks pretty darn good</p>
-|<p>**TODO 15: deployed**</p><p align="left">- 0 no evidence of deployment achieved</p><p align="left">- 2 partial evidence of deployment</p><p align="left">- 4 deployment was successful</p>|
 #
