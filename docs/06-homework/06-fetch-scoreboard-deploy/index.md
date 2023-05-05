@@ -18,7 +18,7 @@ All homework assignments use GitHub Classroom. To start this assignment, you mus
 
    1. Commit those changes: 
 
-      `git add -m “a short, but specific message about changes”`
+      `git add -m "a short, but specific message about changes"`
    2. Push those changes to GitHub:
 
       `git push`
@@ -29,7 +29,7 @@ Here are a few general guidelines for this assignment:
 
 **Use [console.log](https://developer.mozilla.org/en-US/docs/Web/API/console/log) to print values to the browser console.** This is a cheap way to ensure that your code is doing what you think it is doing. If nothing displays in the browser window, it is likely that there is an error in your code. Open the console and see if there was an error. 
 
-**Use [console.assert](https://developer.mozilla.org/en-US/docs/Web/API/console/assert) to come up with test cases.** This will give you some assurance that your code is working properly. We encourage you to share test cases that you develop with others taking this class. This will make everyone’s code better and is how [quality assurance](https://en.wikipedia.org/wiki/Quality_assurance) (QA) can work in practice.
+**Use [console.assert](https://developer.mozilla.org/en-US/docs/Web/API/console/assert) to come up with test cases.** This will give you some assurance that your code is working properly. We encourage you to share test cases that you develop with others taking this class. This will make everyone's code better and is how [quality assurance](https://en.wikipedia.org/wiki/Quality_assurance) (QA) can work in practice.
 
 **Write code in small increments, continually verify that it is working.** It is strongly encouraged that you write your code in small increments and test (or print) that code at each step of the way. Do not write an entire application and then see if it works. If you can verify that your code is working each step of the way, then you can be confident to extend it further.
 
