@@ -39,28 +39,41 @@ After you have successfully cloned the repository, you can begin working on the 
 
 The first step is to install the dependencies:
 
-
-|npm install|
-| :- |
+```
+npm install
+```
 
 We have added a "script" to the **package.json** file to make it easier to start this application. It is common practice to add scripts to simplify the execution of complicated tasks. If you look in the **package.json** file, you will see an entry that looks like this:
 
 
-|`  `"scripts": {<br>`    `"start": "node server/index.js"<br>`  `},|
-| :- |
+```
+  "scripts": {
+    "start": "node server/index.js"
+  },
+```
 
 This script will run the code written in **server/index.js** file. You can run this script by typing the following in the command line:
 
-
-|npm start|
-| :- |
+```
+npm start
+```
 
 This will run the server. At that point, you can open your browser to <http://localhost:3000> and the scrabble application will appear. Now, you need to complete the TODOs below.
 ## **Part 0: GitHub Commits**
 ### ***TODO #0: GitHub Commits***
 You must have at least 5 GitHub commits to receive credit for this part. It is always good practice to design and develop code incrementally. As part of that process you should be making frequent commits to keep a record of your changes along the way.
 
-Examples of poor commit messages:</p><p align="left">- "fixed some stuff"</p><p align="left">- "update"</p><p align="left">- "made some changes"</p><p align="left">- "refactored the function"</p><p align="left">Examples of good commit messages (this commit will…):</p><p align="left">- "Add /happy route to server/index.js"</p><p align="left">- "Add fix to Dictionary class to convert to lowercase letters"</p><p align="left">- "Add margin to scrabble board to prevent overlapping tiles"</p><p align="left">- "Extend scrabble rules to prevent overlapping tiles"</p>
+**Examples of poor commit messages:**
+- "fixed some stuff"
+- "update"
+- "made some changes"
+- "refactored the function"
+
+**Examples of good commit messages (this commit will…):**
+- "Add /happy route to server/index.js"
+- "Add fix to Dictionary class to convert to lowercase letters"
+- "Add margin to scrabble board to prevent overlapping tiles"
+- "Extend scrabble rules to prevent overlapping tiles"
 
 ## **Part 1: Refactoring Server to Use Express (Server)**
 In the previous homework we used the built-in Node.js **http** module to create a server. In this assignment, we will be using ExpressJS to refactor the Scrabble  server and its endpoints. We have provided the basic scaffolding to get you started. You are welcome to use code you implemented in your solution to the previous homework or use our code out of the box. You will need to do the following in the **server/index.js** file:
