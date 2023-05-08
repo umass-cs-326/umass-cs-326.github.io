@@ -245,3 +245,5 @@ You must implement the database calls in **server/database.js**. After completin
 
 ### ***TODO #15: Deploy Scrabble to Heroku***
 After you deploy Scrabble to Heroku, provide a screenshot of the Heroku configuration of the application in the Heroku dashboard. You must also update your README.md in your repository to include a link to your application running on Heroku.
+
+#
