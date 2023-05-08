@@ -1,3 +1,3 @@
 # Hw6: Fetch, Scoreboard, Deploy
 
-Coming soon...
+Please see the documentation for this homework on Moodle.

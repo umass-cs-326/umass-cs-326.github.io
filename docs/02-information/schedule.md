@@ -33,11 +33,11 @@ Below is the projected schedule for _Spring 2023_. You are welcome to visit any 
 - [Th 4/20 - L18 Node and SQL](../../lectures/node-sql)
 - [Tu 4/25 - L19 NoSQL](../../lectures/no-sql)
 - [Th 4/27 - L20 Authentication](../../lectures/auth)
-- [Tu 5/2 - L21 Project](../../lectures/project-1)
-- [Th 5/4 - L22 Project](../../lectures/project-2)
-- [Tu 5/9 - L23 Project](../../lectures/project-3)
-- [Th 5/11 - L24 Project](../../lectures/project-4)
-- [Tu 5/16 - L26 Project Showcase](../../lectures/showcase)
+- Tu 5/2 - L21 Project Work
+- Th 5/4 - L22 Project Work
+- Tu 5/9 - L23 Project Work
+- Th 5/11 - L24 Project Work / Course Conclusion (Attend!)
+- Tu 5/16 - L26 Project Work / Course Conclusion (Attend!)
 
 ## Lab Schedule
 
@@ -96,4 +96,8 @@ _All project assignments are due by 11:59 unless otherwise specified._
 - [Pr3 UI Design](../../project/ui-design) (A: 3/7, D: 4/7)
 - [Pr4 Front-End](../../project/front-end) (A: 4/7, D: 4/25)
 - [Pr5 Back-End](../../project/back-end) (A: 4/25, D: 5/17)
-- [Pr6 Showcase](../../project/showcase) (A: 5/2, D: 5/17)
+- [Pr6 Video](../../project/showcase) (A: 5/2, D: 5/17)
+
+## Final Grade Proposal
+
+- Please see the final grade proposal form on Moodle. Fill it out and submit it by **5/24 at 11:59pm**.
