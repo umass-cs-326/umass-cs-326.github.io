@@ -218,7 +218,7 @@ Although these TODOs are ordered, it is likely that you will need to iterate on 
 In **client/scoreboard.js** you need to implement the **saveWordScore** method in the **WordScoreBoard** class. This method needs to do two things: (1) save the player **name**, **word**, and **score** in the **words** instance variable, and (2) send a request to the **/wordScore** route to save the word score on the server.
 
 ### ***TODO #9: Save the game score to the server***
-In **client/scoreboard.js** you need to implement the **saveGameScore** method in the **GameScoreBoard** class. This method needs to do two things: (1) save the player’s **name** and game **score** in the **game** instance variable, and (2) send a request to the **/gameScore** route to save the game score on the server.
+In **client/scoreboard.js** you need to implement the **saveGameScore** method in the **GameScoreBoard** class. This method needs to do two things: (1) save the player's **name** and game **score** in the **game** instance variable, and (2) send a request to the **/gameScore** route to save the game score on the server.
 ### ***TODO #10: Render the top word and game scores***
 In **client/scoreboard.js** you need to implement the **render** method int he **TopWordAndGameScoreBoard** class. This method needs to fetch the highest word and game scores from the server and render them to the HTML element that is passed in as a parameter. You are welcome to structure the output to be rendered in any form that you want. We used an html **<table>** for organizing the scores and used a provided CSS rule (**top-score-boards**) for some basic styling. You should reference the other two classes in this file to see how we wrote our rendering code there. **You should start simple to make sure it works first before making it look nice!**
 
@@ -226,7 +226,7 @@ In **client/scoreboard.js** you need to implement the **render** method int he *
 In **client/index.html** you need to add a button. We added ours below the “Help!” button. We also gave it an id “end”.
 
 ### ***TODO #12: Save the word score and render it to the UI***
-In **client/main.js** you need to add some code to save and render the word score when a player plays a word. To do this you need to get the **word-score-board** element identified in **client/index.html**, use the **wordScoreBoard** object that we imported from **client/scoreboard.js** to save the word score, and call render on that object to render the word score to the screen. To get the player’s name you can use the **getPlayerName** function from **client/multiplayer.js** module passing it the **turn** as the argument.
+In **client/main.js** you need to add some code to save and render the word score when a player plays a word. To do this you need to get the **word-score-board** element identified in **client/index.html**, use the **wordScoreBoard** object that we imported from **client/scoreboard.js** to save the word score, and call render on that object to render the word score to the screen. To get the player's name you can use the **getPlayerName** function from **client/multiplayer.js** module passing it the **turn** as the argument.
 
 ### ***TODO #13: Handle a click event when "End" button is clicked***
 In **client/main.js** you need to add an event listener for a click event on the “End” button you added previously. The event handler must:
@@ -245,5 +245,3 @@ You must implement the database calls in **server/database.js**. After completin
 
 ### ***TODO #15: Deploy Scrabble to Heroku***
 After you deploy Scrabble to Heroku, provide a screenshot of the Heroku configuration of the application in the Heroku dashboard. You must also update your README.md in your repository to include a link to your application running on Heroku.
-
-#
